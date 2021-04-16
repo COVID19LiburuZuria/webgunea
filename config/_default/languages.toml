@@ -18,3 +18,16 @@
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
+
+[eu]
+  languageCode = "eu"
+  contentDir = "content/eu"
+  title = "COVID&ndash;19aren Liburu Zuria"
+  weight = 1
+  languageName = "Euskara"
+
+[es]
+  languageCode = "es"
+  contentDir = "content/es"
+  title = "Libro Blanco de la COVID&ndash;19"
+  weight = 2
