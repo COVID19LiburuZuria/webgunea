@@ -9,17 +9,17 @@
 #  weight = 10
 
 [[main]]
-  name = "Liburu Zuria"
+  name = "Libro blanco"
   url = "docs"
   weight = 20
 
 [[main]]
-  name = "Albisteak"
+  name = "Noticias"
   url = "post"
   weight = 30
 
 [[main]]
-  name = "Lantaldea"
+  name = "Equipo"
   url = "people"
   weight = 40
 
@@ -29,6 +29,6 @@
   weight = 50
 
 [[main]]
-  name = "Harremanetarako"
+  name = "Contacto"
   url = "contact"
   weight = 60
