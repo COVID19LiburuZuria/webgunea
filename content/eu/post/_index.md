@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Albisteak
 
 # View.
 #   1 = List

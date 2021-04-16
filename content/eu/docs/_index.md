@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: COVID–19aren Liburu Zuria
 type: book  # Do not modify.
 toc: false
 ---
