@@ -2,10 +2,14 @@
 name = "Liburu Zuria"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Source+Sans+Pro:ital,wght@0,700;0,600;0,400;0,900;1,700;1,400;1,900;1,600"
+google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,600;1,700;1,900"
 
 # Font families
 heading_font = "Source Sans Pro"
 body_font = "Source Sans Pro"
 nav_font = "source Sans Pro"
 mono_font = "Roboto Mono"
+
+
+
+
