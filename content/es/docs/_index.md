@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Libro Blanco de la COVID–19
 type: book  # Do not modify.
 toc: false
 ---

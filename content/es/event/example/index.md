@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: Rueda de prensa de presentación
 
 event: Wowchemy Conference
 event_url: https://example.org

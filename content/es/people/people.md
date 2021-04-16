@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
-subtitle:
+title: Equipo
+subtitle: Personas que han contribuido a la redacción del Libro Blanco
 
 content:
   # Choose which groups/teams of users to display.
