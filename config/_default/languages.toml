@@ -11,6 +11,7 @@
   languageCode = "eu"
   contentDir = "content/eu"
   title = "COVID–19aren Liburu Zuria"
+  description = "COVID–19aren Liburu Zuria Lantaldearen webgunea"
   weight = 1
   languageName = "Euskara"
 
@@ -18,7 +19,9 @@
   languageCode = "es"
   contentDir = "content/es"
   title = "Libro Blanco de la COVID–19"
+  description = "Sitio web del equipo de trabajo del Libro Blanco de la COVID–19"
   weight = 2
+  languageName = "Castellano"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
