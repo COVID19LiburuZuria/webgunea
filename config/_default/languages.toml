@@ -7,6 +7,19 @@
   languageCode = "en-us"
   # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
+[eu]
+  languageCode = "eu"
+  contentDir = "content/eu"
+  title = "COVID–19aren Liburu Zuria"
+  weight = 1
+  languageName = "Euskara"
+
+[es]
+  languageCode = "es"
+  contentDir = "content/es"
+  title = "Libro Blanco de la COVID–19"
+  weight = 2
+
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
 #  languageCode = "zh-Hans"
@@ -18,16 +31,3 @@
 #    name = "Wo"
 #    url = "#about"
 #    weight = 1
-
-[eu]
-  languageCode = "eu"
-  contentDir = "content/eu"
-  title = "COVID&ndash;19aren Liburu Zuria"
-  weight = 1
-  languageName = "Euskara"
-
-[es]
-  languageCode = "es"
-  contentDir = "content/es"
-  title = "Libro Blanco de la COVID&ndash;19"
-  weight = 2
