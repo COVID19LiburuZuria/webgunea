@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Libro Blanco"
-  url = "docs"
+  url = "lib"
   weight = 20
 
 [[main]]
