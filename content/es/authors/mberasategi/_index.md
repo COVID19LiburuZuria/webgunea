@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amaia Eiguren
+title: Miren Berasategi
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesora laboral en el departamento de DOE (UPV/EHU). Dra en psicodidáctica por   la   UPV.Grupo   de   Investigación   Consolidado   del   GV   KideON. Investigadora   de   las consecuencias psico-sociales y educativas de la pandemia por COVID-19 en la CAV.
+bio: Doctora en Comunicación y profesora investigadora en la Universidad de Deusto. Su actividad se desarrolla principalmente en torno a las áreas de la comunicación y visualización de datos y la comunicación en línea.
 
 interests:
 #- Artificial Intelligence

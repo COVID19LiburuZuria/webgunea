@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amaia Eiguren
+title: Naiara Berasategi
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesora laboral en el departamento de DOE (UPV/EHU). Dra en psicodidáctica por   la   UPV.Grupo   de   Investigación   Consolidado   del   GV   KideON. Investigadora   de   las consecuencias psico-sociales y educativas de la pandemia por COVID-19 en la CAV.
+bio: Profesora adjunta en el departamento de DOEen la Facultad de Educación (UPV/EHU). Grupo   de   Investigación   Consolidado   del   GV   KideON.   Investigadora   de   las consecuencias psico-sociales y educativas de la pandemia por COVID-19 en la CAV.
 
 interests:
 #- Artificial Intelligence
@@ -38,18 +38,18 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:test@example.org'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/COVID19LiburuZuria
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/COVID19LiburuZuria
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
