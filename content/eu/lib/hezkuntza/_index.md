@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Hezkuntza
 summary: Alorraren deskribapen labur bat?
-weight: 1
+weight: 2
 icon: book
 icon_pack: fas
 

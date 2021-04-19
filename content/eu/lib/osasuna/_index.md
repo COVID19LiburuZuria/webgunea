@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Osasuna
 summary: Alorraren deskribapen labur bat?
-weight: 4
+weight: 1
 icon: heartbeat
 icon_pack: fas
 
