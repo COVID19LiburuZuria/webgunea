@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Miren Berasategi Zeberio
+title: Lázaro Elizalde
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctora en Comunicación y profesora investigadora en la Universidad de Deusto. Su actividad se desarrolla principalmente en torno a las áreas de la comunicación y visualización de datos y la comunicación en línea.
+bio:  Médico  jubilado.  Especialista  en  Salud  Pública.  Ex  Director  del  Servicio  de Ciudadanía  Sanitaria.  Departamento  de  Salud  de  Navarra.  Miembro  de  la  ADSPN-OPEN  y  la Plataforma Navarra de Salud. 
 
 interests:
 #- Artificial Intelligence
@@ -47,18 +47,9 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: rss-square
-  icon_pack: fas
-  link: https://miren.bz
-- icon: mastodon
-  icon_pack: fab
-  link: https://mas.to/miren
-- icon: github
-  icon_pack: fab
-  link: https://github.com/mberasategi
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0003-4528-9138
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/COVID19LiburuZuria
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
