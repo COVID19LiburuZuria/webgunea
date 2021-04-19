@@ -23,3 +23,5 @@ design:
   show_social: true
   show_bio: true
 ---
+
+Este  trabajo  está  enfocado  a  un  único  objetivo:  ayudar  a  la  sociedad  a  desarrollar herramientas  más  eficientes  que  las  actuales  para  afrontar  esta  o  futuras  crisis  sanitarias.  Su elaboración  ha  sido  posible  gracias  al  esfuerzo  realizado  por  un  grupo  de investigadores  y profesionales que han aunado sus fuerzas con este ideal común. La marcada interdisciplinaridad de sus autores ha hecho posible ofrecer un trabajopanorámico, que abarca múltiples materias, visiones y aproximaciones. Nuestra intención ha sido, además, ofrecer sugerencias basadas en datos, de manera que sean lo más objetivas posibles. Obviamente, esto no significa que todos compartamos todos sus contenidos finales. Entre otros motivos, porque no tenemos ni siquiera la capacidad de valorar adecuadamente lo que no pertenece a nuestro propio campo de trabajo. Esperamos, en todo caso, que pueda ser de utilidad para el futuro.
