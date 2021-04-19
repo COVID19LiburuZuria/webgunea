@@ -47,6 +47,6 @@ type: book # Do not modify.
 - Ebaluazio hezitzaile eta osasungarria helburu, elkarrekiko loturan, enpatian, osasun eta ongizateintegralean eta zaintzan jarri fokua. Kalifikazioez gain (edo haratago), irakaskuntza-ikaskuntzarenetenaldia ere erregistratu, geratzen denean. Halabeharrezkoa den kasuetan izan ezik, edukiakohiko erritmoan lantzearen presioaren eta ebaluazio kuantitatiboen gaineko zama arindu.
 - Covid-19aren inguruko haurren bizipenez hitz egiteko eta hausnartzeko espazioak sortu.
 
-[^7]: UNESCO (2020): Escuela, salud y nutrición: por qué la COVID-19 requiere una reforma de la educación para luchar contra las desigualdades de género.https://es.unesco.org/news/escuela-salud-y-nutricion-que-covid-19-requiere-reforma-educacion-luchar-desigualdades-genero
+[^7]: UNESCO (2020): Escuela, salud y nutrición: por qué la COVID-19 requiere una reforma de la educación para luchar contra las desigualdades de género. https://es.unesco.org/news/escuela-salud-y-nutricion-que-covid-19-requiere-reforma-educacion-luchar-desigualdades-genero
 [^8]: Sistiaga M., Andoño i. (2021):  Nola balia genezake natura konpetentziak lantzeko? http://www.hikhasi.eus/Albistegia/20210212/Nola_balia_genezake_natura_konpetentziak_lantzeko_
 [^9]: Gurdasani D.,  Alwan N.A. (2021): School reopening without robust COVID-19 mitigation risks acceleratingthe pandemic. https://www.thelancet.com/action/showPdf?pii=S0140-6736%2821%2900622-X
