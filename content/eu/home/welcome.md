@@ -35,7 +35,7 @@ cta:
   icon_pack: fas
   icon: download
 cta_alt:
-  url: '/docs/'
+  url: '/lib/'
   label: Irakurri webgunean
 ---
 
