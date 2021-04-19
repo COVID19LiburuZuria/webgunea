@@ -49,4 +49,4 @@ type: book # Do not modify.
 
 [^7]: UNESCO (2020): Escuela, salud y nutrición: por qué la COVID-19 requiere una reforma de la educación para luchar contra las desigualdades de género. https://es.unesco.org/news/escuela-salud-y-nutricion-que-covid-19-requiere-reforma-educacion-luchar-desigualdades-genero
 [^8]: Sistiaga M., Andoño i. (2021):  Nola balia genezake natura konpetentziak lantzeko? http://www.hikhasi.eus/Albistegia/20210212/Nola_balia_genezake_natura_konpetentziak_lantzeko_
-[^9]: Gurdasani D.,  Alwan N.A. (2021): School reopening without robust COVID-19 mitigation risks acceleratingthe pandemic. https://www.thelancet.com/action/showPdf?pii=S0140-6736%2821%2900622-X
+[^9]: Gurdasani D.,  Alwan N.A. (2021): School reopening without robust COVID-19 mitigation risks accelerating the pandemic. https://www.thelancet.com/action/showPdf?pii=S0140-6736%2821%2900622-X
