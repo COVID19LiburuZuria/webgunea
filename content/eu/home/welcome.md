@@ -29,14 +29,14 @@ design:
 advanced:
   css_style:
   css_class:
-cta:
-  url: 'link-al-PDF'
-  label: Deskargatu Liburu Zuria
-  icon_pack: fas
-  icon: download
-cta_alt:
-  url: '/lib/'
-  label: Irakurri webgunean
+#cta:
+#  url: 'link-al-PDF'
+#  label: Deskargatu Liburu Zuria
+#  icon_pack: fas
+#  icon: download
+#cta_alt:
+#  url: '/lib/'
+#  label: Irakurri webgunean
 ---
 
 Dokumentuaren deskribapena edo dena delakoa. The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
