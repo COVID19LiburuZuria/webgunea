@@ -6,7 +6,10 @@ article {
 b, strong { font-weight: 600; }
 
 .people-widget { 
-	/*.people-person { text-align: left; }*/
+	.people-person { 
+		/*text-align: left;*/
+		padding-top: 2em;
+	}
 	h2 { font-weight: 700; }
 }
 
