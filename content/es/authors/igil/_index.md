@@ -32,18 +32,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ibon_gil
-#- icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0000-0002-3493-0375
-#- icon: researchgate
-#  icon_pack: ai
-#  link: https://www.researchgate.net/profile/Amaia-Arroyo-Sagasta
-#- icon: github
 #  icon_pack: fab
 #  link: https://github.com/COVID19LiburuZuria
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/amaiaarroyo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
