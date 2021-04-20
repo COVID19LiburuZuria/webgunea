@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ibon Gil de San Vicente
+title: Oihana Aiartza
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Subdirector general de Orkestra - Instituto Vasco de Competitividad. Economista por la UPV/EHU y MBA por University of Kent. Doctorando en el programa Competitividad Empresarial y Territorial, Innovación y Sostenibilidad de la Universidad de Deusto.
+bio: Estudiante de Psicología en la UPV/EHU. Graduada en Biología por la UPV-EHU y Máster de Profesorado en la Universidad Europea de Madrid. 
 
 interests:
 #- Artificial Intelligence
@@ -26,12 +26,6 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:test@example.org'
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ibon-gil-de-san-vicente-3a3b028
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ibon_gil
 #  icon_pack: fab
 #  link: https://github.com/COVID19LiburuZuria
 # Link to a PDF of your resume/CV from the About widget.

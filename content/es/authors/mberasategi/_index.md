@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctora en Comunicación y profesora investigadora en la Universidad de Deusto. Su actividad se desarrolla principalmente en torno a las áreas de la comunicación y visualización de datos y la comunicación en línea.
+bio: Doctora en Comunicación y profesora investigadora en la Universidad de Deusto. Su actividad se desarrolla en torno a las áreas de la comunicación y visualización de datos y la comunicación en línea.
 
 interests:
 #- Artificial Intelligence

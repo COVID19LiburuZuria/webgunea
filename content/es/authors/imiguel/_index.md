@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ibon Gil de San Vicente
+title: Iñigo de Miguel Beriain
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Subdirector general de Orkestra - Instituto Vasco de Competitividad. Economista por la UPV/EHU y MBA por University of Kent. Doctorando en el programa Competitividad Empresarial y Territorial, Innovación y Sostenibilidad de la Universidad de Deusto.
+bio: kerbasque Professor. Investigador distinguido UPV/EHU. Licenciado en Económicas y doctor en Derecho y en Filosofía.   Ha participado en proyectos de investigación y publicado artículos sobre aspectos éticos y jurídicos de las crisis sanitarias.
 
 interests:
 #- Artificial Intelligence
@@ -26,12 +26,13 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:test@example.org'
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ibon-gil-de-san-vicente-3a3b028
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ibon_gil
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
 #  icon_pack: fab
 #  link: https://github.com/COVID19LiburuZuria
 # Link to a PDF of your resume/CV from the About widget.
