@@ -23,7 +23,7 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: project-diagram
+- icon: graduation-cap
   icon_pack: fas
   link: https://www.ehu.eus/es/web/umayor/home
 - icon: orcid
