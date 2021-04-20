@@ -8,30 +8,15 @@ superuser: false
 # Role/position
 role: 
 
-# Organizations/Affiliations
-# organizations:
-# - name: Stanford University
-#  url: ""
-
 # Short bio (displayed in user profile at end of posts)
-bio:  Investigadora en IIS Bioarabay profesora en la UPV/EHU (Dpto Bioquímica y Biología Molecular). Colaboradora en el protocolo de detección de SARS-CoV-2 por RT-PCR y coordinadora del proyecto de fabricación de hisopos mediante impresión 3D.
+bio:  Investigadora en IIS Bioaraba y profesora en la UPV/EHU (Departamento Bioquímica y Biología Molecular). Colaboradora en el protocolo de detección de SARS-CoV-2 por RT-PCR y coordinadora del proyecto de fabricación de hisopos mediante impresión 3D.
 
 interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

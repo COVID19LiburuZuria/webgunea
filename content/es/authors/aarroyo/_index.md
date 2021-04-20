@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Iñaki Zorrilla
+title: Amaia Arroyo Sagasta
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Doctor en Psiquiatría, facultativo del HUA, profesor asociado en UPV-EHU, investigador en Bioaraba y CIBERSAM. Coordinador de la Unidad Ensayos clínicos Bioaraba. Valoración de impacto emocional en población escolar y profesionales sanitarios.
+bio: 
 
 interests:
 #- Artificial Intelligence
@@ -26,15 +26,21 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:test@example.org'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/aarroyosagasta/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-3493-0375
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Amaia-Arroyo-Sagasta
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/COVID19LiburuZuria
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/amaiaarroyo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

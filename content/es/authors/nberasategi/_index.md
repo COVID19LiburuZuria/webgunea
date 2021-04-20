@@ -8,30 +8,15 @@ superuser: false
 # Role/position
 role: 
 
-# Organizations/Affiliations
-# organizations:
-# - name: Stanford University
-#  url: ""
-
 # Short bio (displayed in user profile at end of posts)
-bio: Profesora adjunta en el departamento de DOEen la Facultad de Educación (UPV/EHU). Grupo   de   Investigación   Consolidado   del   GV   KideON.   Investigadora   de   las consecuencias psico-sociales y educativas de la pandemia por COVID-19 en la CAV.
+bio: Profesora adjunta en el departamento de DOE en la Facultad de Educación (UPV/EHU). Grupo   de   Investigación Consolidado   del   GV   KideON.   Investigadora   de   las consecuencias psico-sociales y educativas de la pandemia por COVID-19 en la CAV.
 
 interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,9 +26,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:test@example.org'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: project-diagram
+  icon_pack: fas
+  link: https://kideon.eus/pertsonak/naiara-berasategui-sancho/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

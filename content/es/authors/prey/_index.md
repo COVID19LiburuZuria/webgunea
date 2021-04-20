@@ -8,11 +8,6 @@ superuser: false
 # Role/position
 role: 
 
-# Organizations/Affiliations
-# organizations:
-# - name: Stanford University
-#  url: ""
-
 # Short bio (displayed in user profile at end of posts)
 bio: Investigador  y  analista  de  datos  en  Montera34,  desde  donde  coordina  la iniciativa Escovid19data, que recopila y abre datos sobre COVID-19 a nivel estatal. Impulsor de Bilbao Data Lab y otras iniciativas que abren datos abiertos.
 
@@ -21,17 +16,7 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
