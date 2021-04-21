@@ -11,8 +11,7 @@ weight: 68
 
 title: Equipo
 subtitle: Personas que han contribuido a la redacción del Libro Blanco
-
-credits: "Itzulpena: Eneko Urizar. Maketazioa: Galder González."
+credits: "_Traducción_: Eneko Urizar. _Maquetación_: Galder González."
 
 content:
   # Choose which groups/teams of users to display.
