@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Profesora  de  Educación  Especial.  Profesora  e  investigadora  de  la Facultad  de  HUHEZI  en la  Universidad  de  Mondragón  y  de  KoLaborategia,  el  Laboratorio  de Educación y Comunicación para la Sociedad Digital. Doctora en Comunicación y Educación.
 
 interests:
 #- Artificial Intelligence

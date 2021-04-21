@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lázaro Elizalde
+title: Maite Goñi Eizmendi
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Médico  jubilado.  Especialista  en  Salud  Pública.  Ex  Director  del  Servicio  de Ciudadanía  Sanitaria.  Departamento  de  Salud  de  Navarra.  Miembro  de  la  ADSPN-OPEN  y  la Plataforma Navarra de Salud. 
+bio: Profesora  de  la  Facultad  HUHEZI  en  la  Universidad  de  Mondragón. Licenciada en Filología Vasca e Inglesa. Investigadora en digitalización y competencia digital en KoLaborategia, Laboratorio de Educación y Comunicación de la Sociedad Digital.
 
 interests:
 #- Artificial Intelligence
@@ -23,18 +23,24 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:lelizaldesoto@gmail.com'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:test@example.org'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/maitegoni/
+#- icon: orcid
 #  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  link: https://orcid.org/0000-0002-3493-0375
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/Amaia-Arroyo-Sagasta
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/COVID19LiburuZuria
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/euskaljakintza
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

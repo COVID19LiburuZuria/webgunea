@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lázaro Elizalde
+title: Ainara Gorostizu Muxika
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Médico  jubilado.  Especialista  en  Salud  Pública.  Ex  Director  del  Servicio  de Ciudadanía  Sanitaria.  Departamento  de  Salud  de  Navarra.  Miembro  de  la  ADSPN-OPEN  y  la Plataforma Navarra de Salud. 
+bio:  Periodista y editora de las revistas Hik Hasi y Hazi hezi, especializada en crianza y educación. Licenciada en Filología Vasca.
 
 interests:
 #- Artificial Intelligence
@@ -23,9 +23,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:lelizaldesoto@gmail.com'
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:test@example.org'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen

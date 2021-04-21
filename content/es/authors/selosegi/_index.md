@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lázaro Elizalde
+title: Saioa Elosegi Uranga
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Médico  jubilado.  Especialista  en  Salud  Pública.  Ex  Director  del  Servicio  de Ciudadanía  Sanitaria.  Departamento  de  Salud  de  Navarra.  Miembro  de  la  ADSPN-OPEN  y  la Plataforma Navarra de Salud. 
+bio: Médico de la Residencia Sagrado Corazón de Errenteria. Especialista en Medicina Familiar y Comunitaria. Licenciada en Medicina por la Universidad de Navarra. Master universitario en Geriatria y Gerontologia. Miembro de “Zahartzaroa”. 
 
 interests:
 #- Artificial Intelligence
@@ -23,12 +23,12 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
+#- icon: envelope
+#  icon_pack: fas
+#  link: 'mailto:test@example.org'
+- icon: project-diagram
   icon_pack: fas
-  link: 'mailto:lelizaldesoto@gmail.com'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+  link: https://kideon.eus/pertsonak/naiara-berasategui-sancho/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

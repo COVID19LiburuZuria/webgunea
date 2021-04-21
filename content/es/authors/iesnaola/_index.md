@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Profesora e investigadora en la Universidad de Deusto. Miembro del laboratorio  de  ideas  Telesforo  Monzon  eLab Euskal Herrigintza Laborategia. Ingeniera  en Informática y Doctora en Educación.
 
 interests:
 #- Artificial Intelligence
