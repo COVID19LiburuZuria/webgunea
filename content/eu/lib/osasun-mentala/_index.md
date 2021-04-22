@@ -14,7 +14,7 @@ type: book # Do not modify.
 
 Euskal Autonomia Erkidegoan (EAE) egindako ikerketen arabera, egungo pandemiak biztanlerian ekarri duen estres, herstura eta depresio mailak gora egin du denborak aurrera egin ahala. Pandemiaren hasieran, herstura eta depresio espektro sintomatologia ez zen beste herrialde batzuetan bezain handia. Hala ere, pandemia-egoera denboran luzatzearen ondorioz, gero eta gehiago dira antsietate (%21.6), depresio (%18.7), trauma osteko estresaren sintomak (%15.8) eta biztanleria orokorrean konplikatuak izan daitezkeen doluak, besteak beste[^1]. Ikerketen arabera, oro har, gaixotasun kronikoak dituztenak, emakumezkoak eta 18-25 urte bitartekoak izan dira sufrimendu psikologikoak gehien kaltetutako pertsonak[^2].
 
-Krisi hau erronka bat da estresera egokitzeko mekanismo eta, oro har, erresilientzia-gaitasunarentzat, eta, bestetik, eta bereziki, ahulagoak diren talde batzuentzat. Kolektibo ugarik jasan dituzte pandemiaren ondorio psikologikoak, suizidioa eragin arte[^3,4].
+Krisi hau erronka bat da estresera egokitzeko mekanismo eta, oro har, erresilientzia-gaitasunarentzat, eta, bestetik, eta bereziki, ahulagoak diren talde batzuentzat. Kolektibo ugarik jasan dituzte pandemiaren ondorio psikologikoak, suizidioa eragin arte[^3][^4].
 
 **Haurrek eta ikasleek** eragin psikologikoaren tasa handia dute, orain arteko azterketen arabera[^5]. Bigarrenik, patologia kronikoak (fisikoak zein buruko nahasmenduak) dituzten pertsonek izurrite paraleloa izan dute: beldurra, antsietatea eta depresio sintomak. Hauen intzidentzia-tasa hirukoiztu zen[^6], osasun-sistemaren arreta zerbitzuek gaindituta eta buru-nahasmendu espezifikoen eskaerei erantzuteko gaitasunak murriztuta zeuden bitartean.
 
@@ -22,7 +22,7 @@ Populazio espezifikoagoei dagokienez, Espainiako **osasun-langileek** dute SARS-
 
 Profesional-talde ezberdinez gain, **testuinguru-behartsuan** bizi diren taldeak kaltetuenak izan dira ere. Tratu txarrak jasaten dituzten emakumeak, migratzaileak, kalean daudenak, aurretiko buruko gaixotasunak dituzten pertsonak, desgaitasun intelektuala duten pertsonak eta beste talde asko izan dira pandemia honetan psikologikoki kaltetuenak.
 
-Azkenik, **zaharrek** bakardadea jasan dute[^10,11]. Maite zituzten pertsonen laguntza eta gertutasunik gabe geratu ziren, eta asko bakarrik hil dira, beren gertukoei agur esan ezinik.
+Azkenik, **zaharrek** bakardadea jasan dute[^10][^11]. Maite zituzten pertsonen laguntza eta gertutasunik gabe geratu ziren, eta asko bakarrik hil dira, beren gertukoei agur esan ezinik.
 
 Pandemiaren etapa desberdinotan bizitako sintomatologia guztiaz gain, gaur egun ziurgabetasuna da nagusi, olatu batetik bestera zikloak etengabe aldatzen baitira. Hau da, kutsatze gehiago daudenean, murrizketak areagotzen dira, eta kasuak jaistean arindu. Aldaketa horiek guztiek estres eta gogo falta handia sortzen dute herritarren artean, ingurunearen gaineko kontrol faltagatik.
 
