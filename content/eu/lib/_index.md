@@ -1,5 +1,5 @@
 ---
-title: COVID–19aren Liburu Zuria
+title: Hitzaurrea
 type: book # Do not modify.
 toc: false
 ---
