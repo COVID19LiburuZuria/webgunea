@@ -35,15 +35,15 @@ social:
 - icon: rss-square
   icon_pack: fas
   link: https://miren.bz
-- icon: mastodon
-  icon_pack: fab
-  link: https://mas.to/miren
-- icon: github
-  icon_pack: fab
-  link: https://github.com/mberasategi
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-4528-9138
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mberasategi
+- icon: mastodon
+  icon_pack: fab
+  link: https://mas.to/miren
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
