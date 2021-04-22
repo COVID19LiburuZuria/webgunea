@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Oihana Aiartza
+title: Oihana Aiartza Uribe-etxebarria
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,9 +23,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:test@example.org'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:oaiartza001@ikasle.ehu.eus'
 #  icon_pack: fab
 #  link: https://github.com/COVID19LiburuZuria
 # Link to a PDF of your resume/CV from the About widget.

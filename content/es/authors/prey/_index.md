@@ -26,15 +26,21 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:test@example.org'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/COVID19LiburuZuria
+- icon: chart-bar
+  icon-pack: fas
+  link: https://numeroteca.org/
+- icon: sitemap
+  icon-pack: fas
+  link: https://montera34.com/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-5859-0467
+- icon: github
+  icon_pack: fab
+  link: https://github.com/numeroteca
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/numeroteca
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
