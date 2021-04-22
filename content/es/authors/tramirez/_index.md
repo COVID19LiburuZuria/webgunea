@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Especialista en Gabinetes de Comunicación.Doctor en Periodismo e investigador en Ciencias de la Comunicación.  Ex miembro del Consejo de Administración de EITB y, actualmente, miembro del Consejo de Administración de Berria.
 
 interests:
 #- Artificial Intelligence
