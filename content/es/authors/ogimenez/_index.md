@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ainara Gorostizu Muxika
+title: Olga Gimenez
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Periodista y editora de las revistas Hik Hasi y Hazi hezi, especializada en crianza y educación. Licenciada en Filología Vasca.
+bio:  
 
 interests:
 #- Artificial Intelligence
@@ -26,18 +26,15 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/AinaraGMujika
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/ainara.gorostitzumujika
+#- icon: project-diagram
+#  icon_pack: fas
+#  link: https://kideon.eus/pertsonak/naiara-berasategui-sancho/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
+#- icon: twitter
 #  icon_pack: fab
-#  link: https://github.com/COVID19LiburuZuria
+#  link: https://twitter.com/Saioa9
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
