@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesor Investigador Ikerbasque en CIC bioGUNE. Doctor en Biología por la Universidad Complutense de Madrid. Miembro del grupode actuación COVID-19 de CIC bioGUNE coordinado por José María Mato. 
+bio: Profesor Investigador Ikerbasque en CIC bioGUNE. Doctor en Biología por la Universidad Complutense de Madrid. Miembro del grupo de actuación COVID-19 de CIC bioGUNE coordinado por José María Mato. 
 
 interests:
 #- Artificial Intelligence

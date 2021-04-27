@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juanjo Álvarez
+title: Oihana Aiartza Uribe-etxebarria
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Catedrático Derecho Internacional Privado y Abogado. Experto independiente de la Comisión Europea para el Área de Justicia. Secretario de Globernance. Patrono de la Fundación Ikerbasque. IP del grupo investigación consolidado GV IT-1296-19.
+bio: Psikologia Graduko ikaslea EHUn. Biologian graduatua EHUn eta Irakaskuntza Masterra Universidad Europea de Madrid-en. 
 
 interests:
 #- Artificial Intelligence
@@ -23,16 +23,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:test@example.org'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:oaiartza001@ikasle.ehu.eus'
 #  icon_pack: fab
 #  link: https://github.com/COVID19LiburuZuria
 # Link to a PDF of your resume/CV from the About widget.

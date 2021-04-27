@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juanjo Álvarez
+title: Txema Ramírez de la Piscina Martínez
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Catedrático Derecho Internacional Privado y Abogado. Experto independiente de la Comisión Europea para el Área de Justicia. Secretario de Globernance. Patrono de la Fundación Ikerbasque. IP del grupo investigación consolidado GV IT-1296-19.
+bio: Komunikazio Kabineteetan aditua. Kazetaritzan doktorea eta Komunikazio Zientzietan ikertzailea.  EITBko Administrazio Kontseilukide ohia eta egun Berriako Administrazio kontseilukidea. 
 
 interests:
 #- Artificial Intelligence
@@ -26,15 +26,21 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:test@example.org'
-#- icon: twitter
+#- icon: linkedin
 #  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
+#  link: https://www.linkedin.com/in/aarroyosagasta/
+#- icon: orcid
 #  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  link: https://orcid.org/0000-0002-3493-0375
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/Amaia-Arroyo-Sagasta
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/COVID19LiburuZuria
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/txeramirez
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

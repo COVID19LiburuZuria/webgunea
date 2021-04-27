@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: kerbasque Professor. Investigador distinguido UPV/EHU. Licenciado en Económicas y doctor en Derecho y en Filosofía.   Ha participado en proyectos de investigación y publicado artículos sobre aspectos éticos y jurídicos de las crisis sanitarias.
+bio: Ikerbasque Professor. Investigador distinguido UPV/EHU. Licenciado en Económicas y doctor en Derecho y en Filosofía.   Ha participado en proyectos de investigación y publicado artículos sobre aspectos éticos y jurídicos de las crisis sanitarias.
 
 interests:
 #- Artificial Intelligence

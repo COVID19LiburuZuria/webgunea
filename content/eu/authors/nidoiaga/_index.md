@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juanjo Álvarez
+title: Nahia Idoiaga
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Catedrático Derecho Internacional Privado y Abogado. Experto independiente de la Comisión Europea para el Área de Justicia. Secretario de Globernance. Patrono de la Fundación Ikerbasque. IP del grupo investigación consolidado GV IT-1296-19.
+bio: Psikologia ebolutiboaren eta Hezkuntzaren Psikologiako irakasle laguntzailea EHUn. Psikologiako doktorea EHUn. EJren KideON Ikerketa Talde kontsolidatua. COVID-19 pandemiaren ondorio psiko-sozial eta hezitzaileen ikertzailea EAEn.
 
 interests:
 #- Artificial Intelligence
@@ -23,9 +23,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:test@example.org'
+- icon: project-diagram
+  icon_pack: fas
+  link: https://kideon.eus/pertsonak/nahia-idoiaga-mondragon/
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen

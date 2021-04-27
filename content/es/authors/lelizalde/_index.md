@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lázaro Elizalde
+title: Lázaro Elizalde Soto
 
 # Is this the primary user of the site?
 superuser: false

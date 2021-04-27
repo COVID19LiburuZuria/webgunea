@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juanjo Álvarez
+title: Miren Berasategi Zeberio
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Catedrático Derecho Internacional Privado y Abogado. Experto independiente de la Comisión Europea para el Área de Justicia. Secretario de Globernance. Patrono de la Fundación Ikerbasque. IP del grupo investigación consolidado GV IT-1296-19.
+bio: Komunikazioan doktorea eta Deustuko Unibertsitatean irakasle eta ikertzailea. Bereziki datuen komunikazioa eta bistaratzearen eta lineako komunikazioaren alorretan aritzen da.
 
 interests:
 #- Artificial Intelligence
@@ -32,9 +32,18 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/COVID19LiburuZuria
+- icon: rss-square
+  icon_pack: fas
+  link: https://miren.bz
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-4528-9138
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mberasategi
+- icon: mastodon
+  icon_pack: fab
+  link: https://mas.to/miren
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

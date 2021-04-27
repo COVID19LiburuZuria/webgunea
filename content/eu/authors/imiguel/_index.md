@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juanjo Álvarez
+title: Iñigo de Miguel Beriain
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Catedrático Derecho Internacional Privado y Abogado. Experto independiente de la Comisión Europea para el Área de Justicia. Secretario de Globernance. Patrono de la Fundación Ikerbasque. IP del grupo investigación consolidado GV IT-1296-19.
+bio: Ikerbasque Irakaslea eta EHUko ikertzailea. Ekonomian lizentziatua eta Zuzenbidean eta Filosofian doktorea.  Osasun-krisien alderdi etiko eta juridikoei buruzko artikuluak argitaratu eta ikerketa-proiektuetan parte hartu du.
 
 interests:
 #- Artificial Intelligence

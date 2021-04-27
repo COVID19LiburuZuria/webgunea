@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juanjo Álvarez
+title: Arkaitz Carracedo
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Catedrático Derecho Internacional Privado y Abogado. Experto independiente de la Comisión Europea para el Área de Justicia. Secretario de Globernance. Patrono de la Fundación Ikerbasque. IP del grupo investigación consolidado GV IT-1296-19.
+bio: Ikerbasqueko Irakasle Ikertzailea CIC bioGUNEn. Biologian doktorea Madrilgo Unibertsitate Konplutentsean. José María Matok koordinatutako CIC bioGUNEko COVID-19 jarduera-taldearen kidea.
 
 interests:
 #- Artificial Intelligence
@@ -23,15 +23,18 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:test@example.org'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: flask
+  icon_pack: fas
+  link: https://www.cicbiogune.es/people/acarracedo
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5957-1260
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1392101/arkaitz-carracedo/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/arkaitzlab
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/COVID19LiburuZuria

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juanjo Álvarez
+title: Pablo Aretxabala
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Catedrático Derecho Internacional Privado y Abogado. Experto independiente de la Comisión Europea para el Área de Justicia. Secretario de Globernance. Patrono de la Fundación Ikerbasque. IP del grupo investigación consolidado GV IT-1296-19.
+bio: _K2K Emozionatzen_en aholkularia. Zuzenbidean lizentziatuta Deustuko Unibertsitatean eta MBA EHUn. COVID-19 pandemiaren aurrean, enpresen _nerfuture_ manifestuaren sustatzailea.
 
 interests:
 #- Artificial Intelligence
@@ -26,13 +26,12 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:test@example.org'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ibon-gil-de-san-vicente-3a3b028
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ibon_gil
 #  icon_pack: fab
 #  link: https://github.com/COVID19LiburuZuria
 # Link to a PDF of your resume/CV from the About widget.

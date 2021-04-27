@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Catedrático Derecho Internacional Privado y Abogado. Experto independiente de la Comisión Europea para el Área de Justicia. Secretario de Globernance. Patrono de la Fundación Ikerbasque. IP del grupo investigación consolidado GV IT-1296-19.
+bio: Nazioarteko Zuzenbide Pribatuko katedraduna eta abokatua. Justizia Arlorako Europako Batzordeko aditu independentea. Globernanceko idazkaria. Ikerbasque Fundazioko patronatukidea. EJ-1296-19 ikerketa-talde bateratuaren IP.
 
 interests:
 #- Artificial Intelligence

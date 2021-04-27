@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juanjo Álvarez
+title: Beñat Irasuegi Ibarra
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Catedrático Derecho Internacional Privado y Abogado. Experto independiente de la Comisión Europea para el Área de Justicia. Secretario de Globernance. Patrono de la Fundación Ikerbasque. IP del grupo investigación consolidado GV IT-1296-19.
+bio: Kooperatibista, ekonomia sozial eraldatzaileko ekimenen sustatzailea da, Talaios, Olatukoop, TEKS eta KoopFabrikan. Ekonomia herritarren beharretara bideratzeko ezagutzaren arloan dabil lanean, tokiko ekonomiatik sindemiari aurre eginez.
 
 interests:
 #- Artificial Intelligence
@@ -28,10 +28,10 @@ social:
 #  link: 'mailto:test@example.org'
 #- icon: twitter
 #  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
+#  link: https://twitter.com/guionanclares
+#- icon: orcid
 #  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  link: https://orcid.org/0000-0002-2424-5294
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/COVID19LiburuZuria
