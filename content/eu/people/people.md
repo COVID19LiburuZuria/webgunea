@@ -12,9 +12,9 @@ weight: 68
 title: Lantaldea
 subtitle: Liburu zuriaren idazketan ekarpena egin duten pertsonak
 credits: >- 
-  _Itzulpena_: Eneko Urizar. _Maketazioa_: Galder González.  <br />
-  Eskerrak  eman  behar  dizkiegu  ere  zuzenean  lanaren  prestakuntzan  ez,  baina lan  hau  aurrera eramateko mota ezberdinetako ekarpenak egin dituzten zenbait profesional eta adituei. Mila esker  Estibalitz,  Iker,  Janire,  David,  Angela,  Jonathan,  Jakeline,  Guillermo,  Marian,  Adrian, Izortze, Álvaro...  <br />
-  Era berean argi utzi nahi dugu atea zabalik dagoela lantalde independente eta anitz honi etorkizunean gehituko zaizkion guztiei.
+  _Itzulpena_: Eneko Urizar eta Ines Serrano. _Maketazioa_: Galder González.  <br />
+  <p>Eskerrak  eman  behar  dizkiegu  ere  zuzenean  lanaren  prestakuntzan  ez,  baina lan  hau  aurrera eramateko mota ezberdinetako ekarpenak egin dituzten zenbait profesional eta adituei. Mila esker  Estibalitz,  Iker,  Janire,  David,  Angela,  Jonathan,  Jakeline,  Guillermo,  Marian,  Adrian, Izortze, Álvaro...  </p>
+  <p>Era berean argi utzi nahi dugu atea zabalik dagoela lantalde independente eta anitz honi etorkizunean gehituko zaizkion guztiei.</p>
 
 content:
   # Choose which groups/teams of users to display.
