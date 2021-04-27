@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Olga Gimenez
+title: Olga Giménez Pérez
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,7 +9,7 @@ superuser: false
 role: 
 
 # Short bio (displayed in user profile at end of posts)
-bio:  
+bio:  "Trabajadora  Social  en  Servicio  de  UrgenciasSociales.  Master  en  Trabajo Social California State University. Atención directa de recursos de urgencia antes de y durante la pandemia: dependencia, desprotección, violencia de género, sinhogarismo..."
 
 interests:
 #- Artificial Intelligence
