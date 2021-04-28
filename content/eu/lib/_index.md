@@ -11,23 +11,23 @@ Helburu horrekin, gertatutakoaren inguruan hausnarketa bat planteatu dugudozena 
 ## Edukiak
 
 1. Osasungintzaren barrukoak
-    - Osasungintza soziosanitarioa
-    - Neurri ez farmakologikoak 
-    - Txertoak eta txertatze kanpaina
-    - Osasun mentala
-    - Ohitura osasuntsuak
-    - I+G+b integrazioa
+    - [Osasungintza soziosanitarioa](osasungintza)
+    - [Neurri ez farmakologikoak](neurri-ez-farmakologikoak) 
+    - [Txertoak eta txertatze kanpaina](txertoak)
+    - [Osasun mentala](osasun-mentala)
+    - [Ohitura osasuntsuak](ohitura-osasuntsuak)
+    - [I+G+b integrazioa](ikerketa)
 2. Ekonomiaren ingurukoak
-    - Faktore sozioekonomikoak
-    - Mikro eta mesoekonomia
-    - Makroekonomia
+    - [Faktore sozioekonomikoak](sozioekonomia)
+    - [Mikro eta mesoekonomia](mikro-mesoekonomia)
+    - [Makroekonomia](makroekonomia)
 3. Arlo sozialak
-    - Komunikazio politika
-    - Datu irekien kudeaketa
-    - Lege esparrua
+    - [Komunikazio politika](komunikazioa)
+    - [Datu irekien kudeaketa](datu-irekiak)
+    - [Lege esparrua](lege-esparrua)
 4. Hezkuntza 
-    - Haur, Lehen eta bigarren hezkuntza
-    - Unibertsitate hezkuntza
+    - [Haur, Lehen eta Bigarren hezkuntza](haur-lehen-bigarren-hezkuntza)
+    - [Unibertsitate hezkuntza](unibertsitate-hezkuntza)
 
 [^1]: [The John Snow Memorandum](https://www.johnsnowmemo.com)  
     Elhuyar Aldizkaria (2020), [John Snow Memoranduma](https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/)
