@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: ""
+title: "¿Aquí un título?"
 subtitle: ""
 hero_media: 
 design:
@@ -14,7 +14,7 @@ design:
   columns: '1'
   background:
     # Name of image in `assets/media/`.
-    #image: fusion-medical-animation-npjP0dCtoxo-unsplash.jpg
+    image: fusion-medical-animation-npjP0dCtoxo-unsplash.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0.6
     #  Options are `cover` (default), `contain`, or `actual` size.
@@ -31,20 +31,12 @@ advanced:
   css_class:
 #cta:
 #  url: 'link-al-PDF'
-#  label: Deskargatu Liburu Zuria
+#  label: Descarga el Libro Blanco
 #  icon_pack: fas
 #  icon: download
 #cta_alt:
 #  url: '/lib/'
-#  label: Irakurri webgunean
+#  label: Leer en el sitio web
 ---
 
-<i class="fas fa-viruses"></i>
-
-<h1 class="hero-title">COVID&nsbp;19aren Liburu Zuria</h1>
-
-<p>Lanean ari gara</p>
-
-<style type="text/css">
-  #navbar-main  { display: none }
-</style>
+Descripción del documento o lo que se quiera. The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.

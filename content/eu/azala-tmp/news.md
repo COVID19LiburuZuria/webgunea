@@ -3,7 +3,6 @@
 widget: pages
 headless: true
 weight: 20
-active: false
 
 title: Albisteak
 subtitle:
