@@ -13,4 +13,16 @@ b, strong { font-weight: 600; }
 	h2 { font-weight: 700; }
 }
 
+.docs-toc-link { 
+	font-weight: normal;
+	font-size: .8em;
+	line-height: 1em;
+	margin-left: 1em;
+	text-indent: -1em;
+	i { 
+		width: 1em;
+		opacity: .8;
+	}
+}
+
 .footnotes { font-size: .8em; opacity: .8; }
