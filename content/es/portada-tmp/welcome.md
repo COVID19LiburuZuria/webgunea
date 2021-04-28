@@ -29,14 +29,14 @@ design:
 advanced:
   css_style:
   css_class:
-#cta:
-#  url: 'link-al-PDF'
-#  label: Descarga el Libro Blanco
-#  icon_pack: fas
-#  icon: download
-#cta_alt:
-#  url: '/lib/'
-#  label: Leer en el sitio web
+cta:
+  url: 'link-al-PDF'
+  label: Descarga el Libro Blanco
+  icon_pack: fas
+  icon: download
+cta_alt:
+  url: '/lib/'
+  label: Leer en el sitio web
 ---
 
 Descripción del documento o lo que se quiera. The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.

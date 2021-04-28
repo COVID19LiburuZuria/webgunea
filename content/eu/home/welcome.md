@@ -25,7 +25,7 @@ design:
     image_parallax: true
     # color: 'navy'
     # Text color (true=light, false=dark, or remove for the dynamic theme color). 
-    text_color_light: true
+    text_color_light: false
 advanced:
   css_style:
   css_class:
@@ -41,10 +41,10 @@ advanced:
 
 <i class="fas fa-viruses"></i>
 
-<h1 class="hero-title">COVID&nsbp;19aren Liburu Zuria</h1>
+<h1 class="hero-title">COVID&ndash;19aren Liburu Zuria</h1>
 
 <p>Lanean ari gara</p>
 
 <style type="text/css">
-  #navbar-main  { display: none }
+  #navbar-main, .page-footer { display: none }
 </style>
