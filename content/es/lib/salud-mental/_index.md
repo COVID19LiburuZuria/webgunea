@@ -14,3 +14,8 @@ type: book # Do not modify.
 translationKey: mental
 ---
 
+
+
+<style type="text/css">
+	#fnref\:4::before, #fnref\:11::before { content:', '; }
+</style>

@@ -69,3 +69,7 @@ Gainera, uste dugu _ZeroCovid_ egoera bat lortzeko estrategia bat planteatzeak e
 [^13]: Las Hayas et al. UPRIGHT, a resilience-based intervention to promote mental well-being in schools: study rationale and methodology for a European randomized controlled trial. _BMC Public Health_ (2019) 19:1413 https://doi.org/10.1186/s12889-019-7759-014.
 
 [^14]: Rodriguez, B., Palao, A., Muñoz, A. et al. Implementation of a Mindfulness-Based Crisis Intervention for Frontline Healthcare Workers During the COVID-19 Outbreak in a Public General Hospital in Madrid, Spain. _Front. Psychiatry_, 30 October 2020 | https://doi.org/10.3389/fpsyt.2020.562578
+
+<style type="text/css">
+	#fnref\:4::before, #fnref\:11::before { content:', '; }
+</style>
