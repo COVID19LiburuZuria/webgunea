@@ -18,14 +18,14 @@ toc: false
 2. Economía
     - [Factores socioeconómicos](socioeconomia)
     - [Micro y mesoeconomía](micro-mesoeconomia)
-    - [Macroeconomia](macroeconomia)
+    - [Macroeconomía](macroeconomia)
 3. Ámbito social
     - [Política de comunicación](comunicacion)
     - [Gestión de datos abiertos](datos-abiertos)
     - [Marco legal](legal)
 4. Educación 
     - [Educación Infantil, Primaria y Secundaria](educacion-infantil-primaria-secundaria)
-    - [Educación universitaria](educación-universitaria)
+    - [Educación universitaria](educacion-universitaria)
 
 [^1]: [The John Snow Memorandum](https://www.johnsnowmemo.com)  
     Elhuyar Aldizkaria (2020), [John Snow Memoranduma](https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/)
