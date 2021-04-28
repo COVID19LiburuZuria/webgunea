@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Datuen kudeaketa
+linktitle: Datu irekien kudeaketa
 summary: Alorraren deskribapen labur bat?
 weight: 11
 icon: database

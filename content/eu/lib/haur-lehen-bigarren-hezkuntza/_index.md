@@ -1,6 +1,6 @@
 ---
 # Title, summary, and page position.
-linktitle: Haur, lehen eta bigarren hezkuntza
+linktitle: Haur, Lehen eta Bigarren hezkuntza
 summary: Alorraren deskribapen labur bat?
 weight: 13
 icon: book
