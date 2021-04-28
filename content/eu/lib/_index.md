@@ -8,24 +8,26 @@ Covid 19ak goitik behera aldatu dizkigu bizitza eta heriotza ulertzeko moduak. 2
 
 Helburu horrekin, gertatutakoaren inguruan hausnarketa bat planteatu dugudozena bat arlo ezberdinetan, hortaz aditu edota lehen lerroan izan direnekin; zertan asmatu eta zertan kale egin dugun ulertzeko. Horrela, arloka, etorkizun hurbil eta ez hain hurbilerako proposamen eraikitzaileak elkarrekin definitzen saiakera bat egin dugu. Honetarako, oinarri ideologiko gisa John Snow Memorandum-a hartu dugu[^1]. ZeroCovid estrategia helburutzat hartu behar bagenuen hasiera batean, horri buruzko proposamena egiteaz gain, hain utopikoak ez diren beste proposamenak ere planteatu ditugu. Momentu honetan hain beharrezkoa den elkarrizketa soziala, eta liburu zuri baten formatua eman nahiarekin, lehengo zirriborro gisa hartu daitezken txostenak honako arloetan landu ditugu. 
 
-- Osasungintzaren barrukoak:
-    + Medikuntza asistentziala
-    + Neurri ez farmakologikoak
-    + Txertoak eta txertatze kanpaina
-    + [Ondorio psikologikoak](psikologia)
-    + Bizi ohitura osasuntsuak
-    + Ikerkuntzaren integrazioa
-- Ekonomiaren ingurukoak:
-    + Faktore sozioekonomikoak
-    + Ekonomia soziala
-    + Egoera eta neurri ekonomikoak
-- Arlo sozialetan:
-    + [Komunikazio politika](komunikazio-politika)
-    + [Datuen kudeaketa](datuen-kudeaketa)
-    + Arlo legala
-- Hezkuntzaren inguruan:
-    + [Lehen eta bigarren hezkuntza](hezkuntza)
-    + [Unibertsitate maila](unibertsitatea)
+## Edukiak
+
+1. Osasungintzaren barrukoak
+    a. Osasungintza soziosanitarioa
+    b. Neurri ez farmakologikoak 
+    c. Txertoak eta txertatze kanpaina
+    d. Osasun mentala
+    e. Ohitura osasuntsuak
+    f. I+G+b integrazioa
+2. Ekonomiaren ingurukoak
+    a. Faktore sozioekonomikoak
+    b. Mikro eta mesoekonomia
+    c. Makroekonomia
+3. Arlo sozialak
+    a. Komunikazio politika
+    b. Datu irekien kudeaketa
+    c. Lege esparrua
+4. Hezkuntza 
+    a. Haur, Lehen eta bigarren hezkuntza
+    b. Unibertsitate hezkuntza
 
 [^1]: [The John Snow Memorandum](https://www.johnsnowmemo.com)  
     Elhuyar Aldizkaria (2020), [John Snow Memoranduma](https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/)

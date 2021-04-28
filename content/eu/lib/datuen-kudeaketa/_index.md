@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Datuen kudeaketa
 summary: Alorraren deskribapen labur bat?
-weight: 4
+weight: 11
 icon: database
 icon_pack: fas
 

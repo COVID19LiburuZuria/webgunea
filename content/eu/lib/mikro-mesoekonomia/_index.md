@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Psikologia
+linktitle: Mikro eta mesoekonomia
 summary: Alorraren deskribapen labur bat?
-weight: 3
-icon: user
+weight: 8
+icon: coins
 icon_pack: fas
 
 # Page metadata.
-title: Psikologia
+title: Mikro eta mesoekonomia
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
 ---

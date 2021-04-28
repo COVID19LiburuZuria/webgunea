@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Psikologia
+linktitle: Makroekonomia
 summary: Alorraren deskribapen labur bat?
-weight: 3
-icon: user
+weight: 9
+icon: money-bill-alt
 icon_pack: fas
 
 # Page metadata.
-title: Psikologia
+title: Makroekonomia
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
 ---

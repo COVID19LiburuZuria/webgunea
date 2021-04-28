@@ -2,8 +2,8 @@
 # Title, summary, and page position.
 linktitle: Osasun mentala
 summary: Alorraren deskribapen labur bat?
-weight: 2
-icon: heartbeat
+weight: 4
+icon: brain
 icon_pack: fas
 
 # Page metadata.

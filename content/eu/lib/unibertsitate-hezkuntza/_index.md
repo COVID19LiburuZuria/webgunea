@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Unibertsitate hezkuntza
 summary: Alorraren deskribapen labur bat?
-weight: 4
+weight: 14
 icon: graduation-cap
 icon_pack: fas
 

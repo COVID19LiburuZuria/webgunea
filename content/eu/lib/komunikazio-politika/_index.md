@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Komunikazio politika
 summary: Alorraren deskribapen labur bat?
-weight: 2
+weight: 10
 icon: comments
 icon_pack: fas
 
