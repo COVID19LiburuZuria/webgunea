@@ -23,4 +23,8 @@ b, strong { font-weight: 600; }
 	i { width: 1em; opacity: .8; }
 }
 
+article sup + sup::before {
+	content: ", ";
+}
+
 .footnotes { font-size: .8em; opacity: .8; }
