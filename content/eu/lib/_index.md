@@ -10,14 +10,14 @@ Helburu horrekin, gertatutakoaren inguruan hausnarketa bat planteatu dugudozena 
 
 ## Edukiak
 
-1. Osasungintzaren barrukoak
+1. Osasungintza
     - [Osasungintza soziosanitarioa](osasungintza)
     - [Neurri ez farmakologikoak](neurri-ez-farmakologikoak) 
     - [Txertoak eta txertatze kanpaina](txertoak)
     - [Osasun mentala](osasun-mentala)
     - [Ohitura osasuntsuak](ohitura-osasuntsuak)
     - [I+G+b integrazioa](ikerketa)
-2. Ekonomiaren ingurukoak
+2. Ekonomia
     - [Faktore sozioekonomikoak](sozioekonomia)
     - [Mikro eta mesoekonomia](mikro-mesoekonomia)
     - [Makroekonomia](makroekonomia)

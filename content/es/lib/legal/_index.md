@@ -1,16 +1,16 @@
 ---
 # Title, summary, and page position.
-linktitle: Mikro eta mesoekonomia
+linktitle: Marco legal
 summary: ""
-weight: 8
-icon: coins
+weight: 12
+icon: gavel
 icon_pack: fas
 
 # Page metadata.
-title: Mikro eta mesoekonomia
+title: Marco legal
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
 
-translationKey: mikro
+translationKey: legeak
 ---
 

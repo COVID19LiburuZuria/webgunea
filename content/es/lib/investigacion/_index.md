@@ -1,16 +1,16 @@
 ---
 # Title, summary, and page position.
-linktitle: Mikro eta mesoekonomia
+linktitle: Integración de la I+D+i
 summary: ""
-weight: 8
-icon: coins
+weight: 6
+icon: flask
 icon_pack: fas
 
 # Page metadata.
-title: Mikro eta mesoekonomia
+title: Integración de la I+D+i
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
 
-translationKey: mikro
+translationKey: ikerketa
 ---
 

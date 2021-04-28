@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Haur, Lehen eta Bigarren hezkuntza
-summary: Alorraren deskribapen labur bat?
+summary: ""
 weight: 13
 icon: book
 icon_pack: fas
@@ -10,6 +10,8 @@ icon_pack: fas
 title: Haur, lehen eta bigarren hezkuntza
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
+
+translationKey: haur
 ---
 
 

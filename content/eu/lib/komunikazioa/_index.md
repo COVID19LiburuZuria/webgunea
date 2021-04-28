@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Komunikazio politika
-summary: Alorraren deskribapen labur bat?
+summary: ""
 weight: 10
 icon: comments
 icon_pack: fas
@@ -10,6 +10,8 @@ icon_pack: fas
 title: Komunikazio politika
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
+
+translationKey: komunikazioa
 ---
 
 

@@ -1,16 +1,15 @@
 ---
 # Title, summary, and page position.
-linktitle: Mikro eta mesoekonomia
+linktitle: Educación Infantil, Primaria y Secundaria
 summary: ""
-weight: 8
-icon: coins
+weight: 13
+icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Mikro eta mesoekonomia
+title: Educación Infantil, Primaria y Secundaria
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
 
-translationKey: mikro
+translationKey: haur
 ---
-

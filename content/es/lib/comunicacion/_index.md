@@ -1,16 +1,15 @@
 ---
 # Title, summary, and page position.
-linktitle: Mikro eta mesoekonomia
+linktitle: Política de comunicación
 summary: ""
-weight: 8
-icon: coins
+weight: 10
+icon: comments
 icon_pack: fas
 
 # Page metadata.
-title: Mikro eta mesoekonomia
+title: Política de comunicación
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
 
-translationKey: mikro
+translationKey: komunikazioa
 ---
-

@@ -1,16 +1,16 @@
 ---
 # Title, summary, and page position.
-linktitle: Mikro eta mesoekonomia
+linktitle: Salud mental
 summary: ""
-weight: 8
-icon: coins
+weight: 4
+icon: brain
 icon_pack: fas
 
 # Page metadata.
-title: Mikro eta mesoekonomia
+title: Salud mental
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
 
-translationKey: mikro
+translationKey: mental
 ---
 

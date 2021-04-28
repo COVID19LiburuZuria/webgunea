@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Osasun mentala
-summary: Alorraren deskribapen labur bat?
+summary: ""
 weight: 4
 icon: brain
 icon_pack: fas
@@ -10,6 +10,8 @@ icon_pack: fas
 title: Osasun mentala
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
+
+translationKey: mental
 ---
 
 Euskal Autonomia Erkidegoan (EAE) egindako ikerketen arabera, egungo pandemiak biztanlerian ekarri duen estres, herstura eta depresio mailak gora egin du denborak aurrera egin ahala. Pandemiaren hasieran, herstura eta depresio espektro sintomatologia ez zen beste herrialde batzuetan bezain handia. Hala ere, pandemia-egoera denboran luzatzearen ondorioz, gero eta gehiago dira antsietate (%21.6), depresio (%18.7), trauma osteko estresaren sintomak (%15.8) eta biztanleria orokorrean konplikatuak izan daitezkeen doluak, besteak beste[^1]. Ikerketen arabera, oro har, gaixotasun kronikoak dituztenak, emakumezkoak eta 18-25 urte bitartekoak izan dira sufrimendu psikologikoak gehien kaltetutako pertsonak[^2].

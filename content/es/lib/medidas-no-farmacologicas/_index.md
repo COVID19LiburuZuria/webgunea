@@ -1,16 +1,16 @@
 ---
 # Title, summary, and page position.
-linktitle: Mikro eta mesoekonomia
+linktitle: Medidas no farmacológicas
 summary: ""
-weight: 8
-icon: coins
+weight: 2
+icon: head-side-mask
 icon_pack: fas
 
 # Page metadata.
-title: Mikro eta mesoekonomia
+title: Medidas no farmacológicas
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
 
-translationKey: mikro
+translationKey: ezfarma
 ---
 

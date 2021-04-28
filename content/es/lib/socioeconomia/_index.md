@@ -1,16 +1,16 @@
 ---
 # Title, summary, and page position.
-linktitle: Mikro eta mesoekonomia
+linktitle: Factores socioeconómicos
 summary: ""
-weight: 8
-icon: coins
+weight: 7
+icon: home
 icon_pack: fas
 
 # Page metadata.
-title: Mikro eta mesoekonomia
+title: Factores socioeconómicos
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
 
-translationKey: mikro
+translationKey: sozioeko
 ---
 

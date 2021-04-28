@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Datu irekien kudeaketa
-summary: Alorraren deskribapen labur bat?
+summary: ""
 weight: 11
 icon: database
 icon_pack: fas
@@ -10,6 +10,8 @@ icon_pack: fas
 title: Datuen kudeaketa
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
+
+translationKey: datuak
 ---
 
  Espainian, Covid-19aren epidemiarekin lotutako datuak, bai asistentzialak zein epidemiologikoak, autonomia-erkidego edo -hiri bakoitzak kudeatzen ditu, eta Osasun Ministeriora bidaltzen dira. Ministerioak modu zentralizatuan argitaratzen ditu, Carlos III.a Osasun Institutuaren bitartez. Datuak kasuz kasu lortzen dira, Zaintza Epidemiologikoko Sare Nazionalari (_Red Nacional de Vigilancia Epidemiológica, RENAVE_) deklaratuta, Epidemiologiako Zentro Nazionalak kudeatzen duen SiViES (_Sistema de Vigilancia de España_, Espainiako Zaintza Sistema) web bidezko plataforma informatikoaren bidez[^1].

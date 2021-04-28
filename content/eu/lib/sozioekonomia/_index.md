@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Faktore sozioekonomikoak
-summary: Alorraren deskribapen labur bat?
+summary: ""
 weight: 7
 icon: home
 icon_pack: fas
@@ -10,5 +10,7 @@ icon_pack: fas
 title: Faktore sozioekonomikoak
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
+
+translationKey: sozioeko
 ---
 
