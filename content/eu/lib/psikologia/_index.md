@@ -5,6 +5,7 @@ summary: Alorraren deskribapen labur bat?
 weight: 3
 icon: user
 icon_pack: fas
+draft: true
 
 # Page metadata.
 title: Psikologia

@@ -3,7 +3,7 @@
 linktitle: Faktore sozioekonomikoak
 summary: Alorraren deskribapen labur bat?
 weight: 7
-icon: heartbeat
+icon: home
 icon_pack: fas
 
 # Page metadata.
