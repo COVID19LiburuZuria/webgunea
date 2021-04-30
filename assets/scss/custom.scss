@@ -23,4 +23,6 @@ b, strong { font-weight: 600; }
 	i { width: 1em; opacity: .8; }
 }
 
+.docs-sidenav li::first-child { padding-left: .8em; }
+
 .footnotes { font-size: .8em; opacity: .8; }
