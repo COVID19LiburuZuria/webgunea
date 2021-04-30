@@ -56,7 +56,7 @@ Pandemia-egoerak gehien kaltetu dituen pertsonak maila biopsikosozioekonomiko za
 
 [^7]: CaixaBank Research (2020). El impacto económico de la COVID-19 en la desigualdad: this time is different.
 
-[^8]: Zalacain J (2018) ¿Es la renta básica universal un nuevo reto para Euskadi? Retos de las políticas contra la pobreza en Euskadi. _Fundación Eguia-Careaga._ [https://www.caritasgipuzkoa.org/sites/default/files/2018-03/joseba_zalakain._renta_basica_universal_un_reto_para_euskadi.pdf](https://www.caritasgipuzkoa.org/sites/default/files/2018-03/joseba_zalakain._renta_basica_universal_un_reto_para_euskadi.pdf)
+[^8]: Zalacain J. (2018) ¿Es la renta básica universal un nuevo reto para Euskadi? Retos de las políticas contra la pobreza en Euskadi. _Fundación Eguia-Careaga._ [https://www.caritasgipuzkoa.org/sites/default/files/2018-03/joseba_zalakain._renta_basica_universal_un_reto_para_euskadi.pdf](https://www.caritasgipuzkoa.org/sites/default/files/2018-03/joseba_zalakain._renta_basica_universal_un_reto_para_euskadi.pdf)
 
 [^9]: Díaz de Sarralde Santiago & Garcimartín, C. (2015). ¿Hay alternativas al modelo fiscal dominante? Una propuesta de impuesto global sobre la renta de las personas físicas. _Ekonomiaz: Revista vasca de economía_, (88), 124-145.
 

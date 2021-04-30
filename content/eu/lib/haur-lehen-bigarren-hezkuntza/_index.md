@@ -7,7 +7,7 @@ icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Haur, lehen eta bigarren hezkuntza
+title: Haur, Lehen eta Bigarren hezkuntza
 date: "2021-04-19T00:00:00Z"
 type: book # Do not modify.
 
