@@ -71,5 +71,5 @@ Gainera, uste dugu _ZeroCovid_ egoera bat lortzeko estrategia bat planteatzeak e
 [^14]: Rodriguez, B., Palao, A., Muñoz, A. et al. Implementation of a Mindfulness-Based Crisis Intervention for Frontline Healthcare Workers During the COVID-19 Outbreak in a Public General Hospital in Madrid, Spain. _Front. Psychiatry_, 30 October 2020 | https://doi.org/10.3389/fpsyt.2020.562578
 
 <style type="text/css">
-	#fnref\:4::before, #fnref\:11::before { content:', '; }
+#fnref\:4::before, #fnref\:11::before { content:', '; }
 </style>
