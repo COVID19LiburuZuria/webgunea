@@ -13,7 +13,7 @@ title: Equipo
 subtitle: Personas que han contribuido a la redacción del Libro Blanco
 credits: >- 
   _Traducción_: Eneko Urizar e Ines Serrano. _Maquetación_: Galder González.  <br />
-  <p>Eskerrak  eman  behar  dizkiegu  ere  zuzenean  lanaren  prestakuntzan  ez,  baina lan  hau  aurrera eramateko mota ezberdinetako ekarpenak egin dituzten zenbait profesional eta adituei. Mila esker  Estibalitz,  Iker,  Janire,  David,  Angela,  Jonathan,  Jakeline,  Guillermo,  Marian,  Adrian, Izortze, Álvaro...  </p>
+  <p>Eskerrak  eman  behar  dizkiegu  ere  zuzenean  lanaren  prestakuntzan  ez,  baina lan  hau  aurrera eramateko mota ezberdinetako ekarpenak egin dituzten zenbait profesional eta adituei. Mila esker  Estibalitz,  Iker,  Janire,  David,  Angela,  Jonathan,  Jakeline,  Guillermo,  Marian,  Unai, Izortze, Ana...  </p>
   <p>Era berean argi utzi nahi dugu atea zabalik dagoela lantalde independente eta anitz honi etorkizunean gehituko zaizkion guztiei.</p>
 content:
   # Choose which groups/teams of users to display.
