@@ -56,11 +56,11 @@ Pandemia-egoerak gehien kaltetu dituen pertsonak maila biopsikosozioekonomiko za
 
 [^7]: CaixaBank Research (2020). El impacto económico de la COVID-19 en la desigualdad: this time is different.
 
-[^8]: Zalacain J (2018) ¿Es la renta básica universal un nuevo reto para Euskadi? Retos de las políticas contra la pobreza en Euskadi. _Fundación Eguia-Careaga._ https://www.caritasgipuzkoa.org/sites/default/files/2018-03/joseba\_zalakain.\_renta\_basica\_universal\_un\_reto\_para\_euskadi.pdf
+[^8]: Zalacain J (2018) ¿Es la renta básica universal un nuevo reto para Euskadi? Retos de las políticas contra la pobreza en Euskadi. _Fundación Eguia-Careaga._ [https://www.caritasgipuzkoa.org/sites/default/files/2018-03/joseba\_zalakain.\_renta\_basica\_universal\_un\_reto\_para\_euskadi.pdf](https://www.caritasgipuzkoa.org/sites/default/files/2018-03/joseba\_zalakain.\_renta\_basica\_universal\_un\_reto\_para\_euskadi.pdf)
 
 [^9]: Díaz de Sarralde Santiago & Garcimartín, C. (2015). ¿Hay alternativas al modelo fiscal dominante? Una propuesta de impuesto global sobre la renta de las personas físicas. _Ekonomiaz: Revista vasca de economía_, (88), 124-145.
 
-[^10]: de Mooij, R., Fenochietto, R., Hebous, S., Leduc, S., & Osorio-Buitron, C. (2020). Tax Policy for Inclusive Growth after the Pandemic. IMF Fiscal Affaires, Special Series on COVID-19
+[^10]: de Mooij, R., Fenochietto, R., Hebous, S., Leduc, S., & Osorio-Buitron, C. (2020). Tax Policy for Inclusive Growth after the Pandemic. _IMF Fiscal Affaires, Special Series on COVID-19_
 
 [^11]: Erletxea (2016). Llamamiento a todas las personas a las que Lanbide ha suspendido la RGI. 14/12. [https://www.erletxea.org/es/berria/2016-14-12/llamamiento-todas-las-personas-las-que-lanbide-ha-suspendido-la-rgi](https://www.erletxea.org/es/berria/2016-14-12/llamamiento-todas-las-personas-las-que-lanbide-ha-suspendido-la-rgi)
 
