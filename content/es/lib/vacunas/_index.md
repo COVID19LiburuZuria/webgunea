@@ -14,3 +14,8 @@ type: book # Do not modify.
 translationKey: txertoak
 ---
 
+
+
+<style type="text/css">
+#fnref\:4::before, #fnref\:8::before, #fnref\:17::before, #fnref\:19::before, #fnref\:20::before, #fnref\:21::before { content:', '; }
+</style>
