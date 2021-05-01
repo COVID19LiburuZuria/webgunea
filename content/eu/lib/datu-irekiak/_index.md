@@ -14,7 +14,7 @@ type: book # Do not modify.
 translationKey: datuak
 ---
 
- Espainian, Covid-19aren epidemiarekin lotutako datuak, bai asistentzialak zein epidemiologikoak, autonomia-erkidego edo -hiri bakoitzak kudeatzen ditu, eta Osasun Ministeriora bidaltzen dira. Ministerioak modu zentralizatuan argitaratzen ditu, Carlos III.a Osasun Institutuaren bitartez. Datuak kasuz kasu lortzen dira, Zaintza Epidemiologikoko Sare Nazionalari (_Red Nacional de Vigilancia Epidemiológica, RENAVE_) deklaratuta, Epidemiologiako Zentro Nazionalak kudeatzen duen SiViES (_Sistema de Vigilancia de España_, Espainiako Zaintza Sistema) web bidezko plataforma informatikoaren bidez[^1].
+Espainian, Covid-19aren epidemiarekin lotutako datuak, bai asistentzialak zein epidemiologikoak, autonomia-erkidego edo -hiri bakoitzak kudeatzen ditu, eta Osasun Ministeriora bidaltzen dira. Ministerioak modu zentralizatuan argitaratzen ditu, Carlos III.a Osasun Institutuaren bitartez. Datuak kasuz kasu lortzen dira, Zaintza Epidemiologikoko Sare Nazionalari (_Red Nacional de Vigilancia Epidemiológica, RENAVE_) deklaratuta, Epidemiologiako Zentro Nazionalak kudeatzen duen SiViES (_Sistema de Vigilancia de España_, Espainiako Zaintza Sistema) web bidezko plataforma informatikoaren bidez[^1].
 
 Autonomia-erkidego bakoitzak erabakitzen du zein datu argitaratu eta nola[^2]. Datuen tratamenduaren arabera, zenbakiak desberdinak izan daitezke, estatuko edo autonomia-erkidegoko datu-baseak kontsultatzen diren kontuan hartuta. Datuen serie baterako hainbat iturri egon, eta hauek bat ez datozenean, ez dago jakiterik zein den errealitatetik hurbilen dagoena.
 

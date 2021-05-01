@@ -47,7 +47,7 @@ COVID-19-aren inguruan komunikabideek egiten duten etengabeko eta berehalako _in
 
 [^2]: Heydari, S.T., Zarei, L., Sadati, A.K. et al. (2021). The effect of risk communication on preventive and protective Behaviours during the COVID-19 outbreak: mediating role of risk perception. _BMC Public Health_ 21, 54 (2021). [https://doi.org/10.1186/s[^12889]-020-10125-5](https://doi.org/10.1186/s[^12889]-020-10125-5)
 
-[^3]: WHO, World Health Organization (2017). Communicating Risk in Public Health Emergencies. A WHO Guideline for Emergency Risk Communication (ERC) policy and practice. [https://www.who.int/risk-communication/guidance/download/en](https://www.who.int/risk-communication/guidance/download/en)
+[^3]: WHO, World Health Organization (2017). _Communicating Risk in Public Health Emergencies. A WHO Guideline for Emergency Risk Communication (ERC) policy and practice_. [https://www.who.int/risk-communication/guidance/download/en](https://www.who.int/risk-communication/guidance/download/en)
 
 [^4]: Mayor, U. (2020) [Harrituta](https://www.berria.eus/paperekoa/2236/003/001/2020-11-27/harrituta.htm). _Berria_ 
 
