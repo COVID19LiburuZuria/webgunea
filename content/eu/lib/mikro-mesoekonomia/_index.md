@@ -26,8 +26,6 @@ Bestalde, enpresek jarduera-shock baten aurrean erreakzionatu behar izan dute, e
 
 Euskadiko administrazio publikoek hartutako neurriei dagokienez, Euskal Herriko 2020rako Lehiakortasun Txostenak adierazten duen bezala, oro har, bizkorrak izan dira, eta Europako erreferentziazko beste eskualde batzuen antzekoak. Horren adibide dira beren finantza-egoera arintzea helburu duten enpresen eskura, oso baldintza onetan, jarri diren laguntza-lerroak[^8]. Enpresek erraztasun horiek erabilita zorpetu egin dira. Izan ere, enpresen zorpetzeak %5,3 egin zuen gora Espainian 2020an[^9]. Administrazioen ahalegin ekonomiko horrek eta zerga-bilketaren murrizketak zorpetze publikoaren pisua nabarmen handitzea ekarri dute. Espainian, zorpetze hori BPGren %120koa da dagoeneko; EAEren kasuan, zorpetzea BPGren %16,1era iritsi zen, hau da, aurreko urtean baino %3,4 puntu gehiago[^9].
 
-    
-
 Zailtasun nagusietako bat pandemiaren ondorioen asimetria izan da, zenbait kolektibotan eragin negatiboak nabarmenagoak izan baitira. Era berean, hasierako teoria batzuek "V" mailako krisia aurreikusten zuten arren, susperraldi handi batekin, pandemiaren bilakaera susperraldia atzeratzen ari da krisian fase desberdinak sortuz, non baldintzak eta kaltetutako kolektiboak aldatzen diren[^10]. Gainera, zaila da neurriak hartzea, bai ustekabean aldatzen ari den errealitate bati buruzko datuak izatea konplexua delako, zein horietara azkar egokitzeko sistemak zailtasun estrukturalak dituelako.
 
 Testuinguru horrek, eskura dagoen informazio urria dela-eta ziurgabetasun handia sortu duen shock baten aurrean, eragile ekonomiko guztiek egokitzeko duten gaitasuna testatu du. Erronka nagusia erresilientzia-gaitasun bat sortzea da, gizarte gisa aukera emango diguna datozen urteetan etorkizuneko krisiei aurre egiteko eta pandemia honek sortzen dituen eta sortuko dituen dualtasun-egoerak kudeatzeko. Horrek erraztu egingo du garapen ekonomiko inklusibo eta iraunkorra mantentzea.
@@ -47,7 +45,7 @@ Testuinguru horrek, eskura dagoen informazio urria dela-eta ziurgabetasun handia
   
   
 
-[^1]: OECD (2021), OECD Economic Outlook, Interim Report March 2021, OECD Publishing, Paris, [https://doi.org/10.1787/34bfd[^999]-en](https://doi.org/10.1787/34bfd[^999]-en).
+[^1]: OECD (2021), OECD Economic Outlook, Interim Report March 2021, OECD Publishing, Paris, https://doi.org/10.1787/34bfd999-en.
 
 [^2]: EUSTAT (2021), Cuentas trimestrales IV/2020
 
@@ -59,11 +57,12 @@ Testuinguru horrek, eskura dagoen informazio urria dela-eta ziurgabetasun handia
 
 [^6]: Menéndez, A., y Mulino, M. (2021), Resultados de las empresas no financieras hasta el cuarto trimestre de 2020. Un avance de cierre de ejercicio, Boletín Económico, Banco de España.
 
-[^7]: Miroudot, S. (2020) Reshaping the policy debate on the implications of COVID-19 for global supply chains. _J Int Bus Policy_ 3, 430–442. https://doi.org/10.1057/s[^42214]-020-00074-6
+[^7]: Miroudot, S. (2020) Reshaping the policy debate on the implications of COVID-19 for global supply chains. _J Int Bus Policy_ 3, 430–442. https://doi.org/10.1057/s42214-020-00074-6
+
+[^8]: Adibidez: autonomoei eta ETEei zuzendutako kredituak bermatzeko tresnak (%0ko finantzaketa-lerroa Elkargi - Eusko Jaurlaritzaren ETEentzat eta autonomoentzat, edo Covid-19 KOIren abalen lerroak); ordainketak geroratzea, aurrerakinen itzulketa aurreratua (INDARTU, SPRILURreko industrialdeetako alokairuak, Gauzatu Industria, Bideratu Bideratu, Bideratu Berria); enpresak berregituratzeko eta berrabiarazteko laguntza itzulgarriak (Bideratu Covid-19).
 
 [^9]: Banco de España (2021), Cuentas Financieras de la Economía Española correspondientes al cuarto trimestre de 2020
 
 [^10]: De Vet JM, Nigohosyan D, Núñez Ferrer J, Gross A-K, Kuehl S, Flickenschild M (2021). Impacts of the COVID-19 pandemic on EU industries, Publication for the committee on Industry, Research and Energy, Policy Department for Economic, Scientific and Quality of Life Policies, European Parliament, Luxembourg, 2021.
 
-[^8]: Adibidez: autonomoei eta ETEei zuzendutako kredituak bermatzeko tresnak (%0ko finantzaketa-lerroa Elkargi - Eusko Jaurlaritzaren ETEentzat eta autonomoentzat, edo Covid-19 KOIren abalen lerroak); ordainketak geroratzea, aurrerakinen itzulketa aurreratua (INDARTU, SPRILURreko industrialdeetako alokairuak, Gauzatu Industria, Bideratu Bideratu, Bideratu Berria); enpresak berregituratzeko eta berrabiarazteko laguntza itzulgarriak (Bideratu Covid-19).
 
