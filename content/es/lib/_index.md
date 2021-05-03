@@ -3,6 +3,8 @@ title: Una reflexión colectiva. Soluciones concretas.
 type: book # Do not modify.
 toc: false
 linktitle: Preámbulo
+
+date: "2021-05-03T00:00:00Z"
 ---
 
 La COVID-19 ha cambiado radicalmente nuestras vidas desde febrero de 2020. Como consecuencia de esta enfermedad, en los últimos quince meses más de 5.000 personas han fallecido entre la Comunidad Autónoma Vasca (CAV) y la Comunidad Foral de Navarra[^1], y al menos 20.000 han sido hospitalizadas. El planeta está sufriendo una situación sindémica[^2] con enormes consecuencias biológicas, sociales y económicas. Y aunque la pandemia fuese —al igual que el _Rinoceronte gris_[^3]— una amenaza altamente probable, la decidimos ignorar, habiendo pagado un alto precio por ello. Por eso, vemos necesario dirigir una mirada colectiva, multidisciplinar y basada en la evidencia a este escenario tan complejo. Analizar lo que ha pasado, ámbito por ámbito, tiene sin embargo su riesgo. Hacer frente a una pandemia, para que no se convirtiera en sindemia tal cual ha ocurrido, requería de una visión de Salud Pública más allá del ámbito sanitario. Aunque analicemos cada ámbito por separado, no debemos olvidar la interdependencia existente entre la salud de las personas con las políticas sociales y económicas vigentes o a plantear.
@@ -14,7 +16,7 @@ Las y los profesionales que hemos contribuido a este texto, tanto del mundo acad
 
 ## Índice de contenidos
 
-0. [Preámbulo: Una reflexión colectiva. Soluciones concretas.](lib)
+0. [Preámbulo: Una reflexión colectiva. Soluciones concretas.](https://covid19liburuzuria.eus/es/lib/)
 
 1. Sanidad
     - [Sanidad sociosanitaria](sanidad)
@@ -34,7 +36,7 @@ Las y los profesionales que hemos contribuido a este texto, tanto del mundo acad
     - [Educación Infantil, Primaria y Secundaria](educacion-infantil-primaria-secundaria)
     - [Educación universitaria](educacion-universitaria)
     
-5. [Equipo de trabajo](people/)
+5. [Equipo de trabajo](https://covid19liburuzuria.eus/es/people/)
 
 [^1]: **Nota**: Algunos de los textos de este Libro Blanco se han contextualizado en la Comunidad Autónoma Vasca (CAV), mientras otros se han referido al conjunto de la CAV y la Comunidad Foral de Navarra. Dado que en cada caso los trabajos realizados se han basado en los datos disponibles para el grupo que lo ha contribuido, hemos decidido conservar esa diversidad de marcos de referencia.  Somos conscientes de que los límites competenciales y administrativos condicionan tanto las circunstancias actuales, como la capacidad de incidir con soluciones a los problemas existentes.  Sin embargo, entendemos que la mayor parte de los análisis, conclusiones y propuestas sectoriales detalladas son de similar aplicabilidad para cualquier parte del territorio.
 
