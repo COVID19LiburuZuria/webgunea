@@ -32,7 +32,7 @@
       {{ end }}
    {{ end }}
 
-  <div class="wg-hero dark parallax carousel-item{{if eq $index 0}}" style="{{$style_bg | safeCSS}} background-position: 100%;">
+  <div class="wg-hero dark parallax carousel-item{{if eq $index 0}}" style="{{$style_bg | safeCSS}}">
     <div class="container" style="text-align: {{$item.align | default "left"}};">
         <h1 class="hero-title">
           {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
