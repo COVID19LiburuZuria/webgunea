@@ -209,7 +209,7 @@ Adinekoen egoitzek arazo bereziak izan dituzte[^40] egoiliarren sektorizazio lan
 
 
 <style type="text/css">
-#fnref\:3::before, #fnref\:5::before, #fnref\:6::before, #fnref\:7::before, #fnref\:8::before, #fnref\:10::before, #fnref\:12::before, #fnref\:15::before, #fnref\:16::before, #fnref\:19::before, #fnref\:21::before, #fnref\:22::before, #fnref\:23::before, #fnref\:24::before, #fnref\:25::before, #fnref\:26::before, #fnref\:32::before, #fnref\:33::before, #fnref\:34::before, #fnref\:35::before, #fnref\:36::before, #fnref\:39::before { content:', '; }
+#fnref\:3::before, #fnref\:5::before, #fnref\:6::before, #fnref\:7::before, #fnref\:8::before, #fnref\:10::before, #fnref\:12::before, #fnref\:15::before, #fnref\:16::before, #fnref\:19::before, #fnref\:22::before, #fnref\:23::before, #fnref\:24::before, #fnref\:25::before, #fnref\:26::before, #fnref\:32::before, #fnref\:33::before, #fnref\:34::before, #fnref\:35::before, #fnref\:36::before, #fnref\:39::before { content:', '; }
 </style>
 
 
