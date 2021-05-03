@@ -16,7 +16,7 @@ translationKey: ikerketa
 
 Birusaren hedapena murrizteko prebentzio-neurriek gure gizarteko geruza sozioekonomiko eta industrial guztiak zeharkatu dituzte, eta jarduera ekonomikoak funtsezkoetan eta funtsezkoak ez direnetan banatu dira. Funtsezkoak ez diren jarduerek itxiera luzea izan dute, datu epidemiologikoek berriro irekitzea ahalbidetu duten arte. Pandemia honetan, kudeaketa zaildu duten hainbat "botila-lepo" identifikatu dira; besteak beste, diagnostiko-_kit_en horniketa, txertoen garapen eta banaketa, eta COVID-19aren tratamenduak. Ezagutza sortzeak, gutxienez, lehen bi faktoreak elikatzen ditu. Atal honetan, euskal ikerketa, garapen eta berrikuntzako sareak etorkizuneko antzeko osasun-larrialdiei aurre egiteko egin lezakeen ekarpena aztertzen da. Ikerketa-sarea kontzeptu zabala da, eta ikerketa- eta teknologia-zentroen, unibertsitatearen, industria-sektore bioteknologikoaren eta biosanitarioaren I+G+b barne hartzen ditu. Nazioartean portaera desberdina izan duenez, EAEko zientziaren kudeaketaren funtsezko faktoreetan zentratuko gara:
 
-### Ikerketa-ildoen eraginkortasuna eta jarraipena.
+### Ikerketa-ildoen eraginkortasuna eta jarraipena
 
 Itxialdiaren garaian gure gizartean funtsezkotzat jotzen ez diren arloekin batera sailkatu zen ikerketa-sarea. Osasun-esparruari atxikitako salbuespenak salbuespen, hartutako neurriak ez ziren ikerketa-erakundeen ezaugarrietara egokitu, ez eta itxiera horren ondorioak kontutan hartu ere. Laborategi gutxi batzuek baino ez zuten jarduerarik mantendu, pandemiari emandako erantzunarekin lotutako lana garatzeko justifikazioarekin. Oro har:
 
@@ -24,7 +24,7 @@ Itxialdiaren garaian gure gizartean funtsezkotzat jotzen ez diren arloekin bater
 - Ikerketa-erakundeen irekiera erritmoa oso asimetrikoa izan da; zentro batzuek epe laburrean (bi hilabete baino gutxiago) pandemiara egokitutako plan batekin ekin diote berriro jarduerari, eta beste batzuek, aldiz, handik hilabete batzuetara baino ez dute berriz ireki.
 - Ikerketa- eta teknologia-zentro eta unibertsitateetan beka eta kontratu lehiakorrak dituzten ikertzaileek ez dute erantzun azkarrik izan beren ikerketa-jardueraren geldialdia konpentsatzeko. Zenbait ikertzailek, kontratuaren azken urtean, ezin izan dute pandemiak prestakuntzan izan duen eragina arintzeko luzapenik lortu.
 
-### Ikerketa-egituratik datozen baliabide teknologikoen ustiaketa.
+### Ikerketa-egituratik datozen baliabide teknologikoen ustiaketa
 
 I+G+b arloko erakunde gehienek baliabide eta gaitasun pertsonal eta materialak jarri dituzte Eusko Jaurlaritzaren zerbitzura, hainbat ekimenen bidez. Hala ere:
 

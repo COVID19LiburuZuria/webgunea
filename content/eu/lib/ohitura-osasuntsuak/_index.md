@@ -50,9 +50,9 @@ Tamalez, pandemiako estres- eta antsietate-testuinguruagatik osasungarriak ez di
 
 [^1]: Wilke J et al. (2021) Pandemic within the Pandemic? Physical Activity Levels Substantially Decreased in Countries Affected by COVID-19. International Journal of Environmental Research and Public Health. 18:2235. https://doi.org/10.3390/ijerph18052235
 
-[^2]: Rodríguez-Larrad A et al (2021). Impact of COVID-19 Confinement on Physical Activity and Sedentary Behaviour in Spanish University Students: Role of Gender. Int J Environ Res Public Health. 18:369. doi: 10.3390/ijerph18020369
+[^2]: Rodríguez-Larrad A et al (2021). Impact of COVID-19 Confinement on Physical Activity and Sedentary Behaviour in Spanish University Students: Role of Gender. Int J Environ Res Public Health. 18:369. https://doi.org/10.3390/ijerph18020369
 
-[^3]: Zhou J et al (2021). Impact of COVID-19 Lockdown on Physical Activity Among the Chinese Youths: The COVID-19 Impact on Lifestyle Change Survey (COINLICS). Front Public Health.;9:592795. doi: 10.3389/fpubh.2021.592795
+[^3]: Zhou J et al (2021). Impact of COVID-19 Lockdown on Physical Activity Among the Chinese Youths: The COVID-19 Impact on Lifestyle Change Survey (COINLICS). Front Public Health.;9:592795. https://doi.org/10.3389/fpubh.2021.592795
 
 [^4]: Constandt B et al (2020) Exercising in Times of Lockdown: An Analysis of the Impact of COVID-19 on Levels and Patterns of Exercise among Adults in Belgium. Int J Environ Res Public Health. 17: 4144. https://dx.doi.org/10.3390%2Fijerph17114144
 
@@ -80,10 +80,10 @@ Tamalez, pandemiako estres- eta antsietate-testuinguruagatik osasungarriak ez di
 
 [^16]: Damayanthi HDVT et al (2021). Nutritional determinants and COVID-19 outcomes of older patients with COVID-19: A systematic review. Archives of Gerontology and Geriatrics, 95: 104411, https://doi.org/10.1016/j.archger.2021.104411.
 
-[^17]: Sallis R et al (2021). Physical inactivity is associated with a higher risk for severe COVID-19 outcomes: a study in 48 440 adult patients. Br J Sports Med. bjsports-2021-104080. doi: 10.1136/bjsports-2021-10408015.
+[^17]: Sallis R et al (2021). Physical inactivity is associated with a higher risk for severe COVID-19 outcomes: a study in 48 440 adult patients. Br J Sports Med. bjsports-2021-104080. https://doi.org/10.1136/bjsports-2021-10408015.
 
 [^18]: Zhao X et al (2021) Evaluation of Nutrition Risk and Its Association With Mortality Risk in Severely and Critically Ill COVID-19 Patients. JPEN J Parenter Enteral Nutr. 45:32-42. [https://doi.org/10.1002/jpen.1953](https://doi.org/10.1002/jpen.1953)
 
 [^19]: Casey P et al (2021) COVID-19-induced sarcopenia and physical deconditioning may require reassessment of surgical risk for patients with cancer. World J Surg Onc 19, 8 [https://doi.org/10.1186/s12957-020-02117-x](https://doi.org/10.1186/s12957-020-02117-x)
 
-[^20]: Angelidi AM et al (2021) Mediterranean diet as a nutritional approach for COVID-19. Metabolism. 114:154407. doi: 10.1016/j.metabol.2020.154407.
+[^20]: Angelidi AM et al (2021) Mediterranean diet as a nutritional approach for COVID-19. Metabolism. 114:154407. https://doi.org/10.1016/j.metabol.2020.154407.
