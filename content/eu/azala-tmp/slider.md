@@ -14,6 +14,28 @@ height: 450px
 
 
 item:
+  - title: Aurkezpen prentsaurrekoa
+    content: 'Pandemiak hamabost hilabete bete dituen honetan, arlo desberdinetako akademiko eta profesionalek egindako gogoeta kolektiboa.'
+    # Choose `center`, `left`, or `right` alignment.
+    align: center
+    # Overlay a color or image (optional).
+    #   Deactivate an option by commenting out the line, prefixing it with `#`.
+    # overlay_color: '#666'  # An HTML color value.
+    overlay_img: fusion-medical-animation-npjP0dCtoxo-unsplash.jpg  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0.6  # Darken the image. Empty for not darken.
+    #  Options are `cover` (default), `contain`, or `actual` size.
+    overlay_size: cover
+    # Options include `left`, `center` (default), or `right`.
+    overlay_position: right
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Deskargatu Liburu Zuria
+    cta_url: 'https://example.org'
+    cta_icon_pack: fas
+    cta_icon: download
+    cta_alt_url: '/lib/'
+    cta_alt_label: Irakurri webgunean
   - title: COVID-19aren Liburu Zuria
     content: 'Pandemiak hamabost hilabete bete dituen honetan, arlo desberdinetako akademiko eta profesionalek egindako gogoeta kolektiboa.'
     # Choose `center`, `left`, or `right` alignment.
@@ -36,17 +58,6 @@ item:
     cta_icon: download
     cta_alt_url: '/lib/'
     cta_alt_label: Irakurri webgunean
-  - title: Left
-    content: 'I am left aligned 😄'
-    align: left
-    overlay_color: '#555'
-    overlay_img: ''
-    overlay_filter: 0.5
-  - title: Right
-    content: 'I am right aligned 😄'
-    align: right
-    overlay_color: '#333'
-    overlay_img: ''
-    overlay_filter: 0.5
+
 
 ---

@@ -24,7 +24,7 @@
       {{ $bg_img := resources.Get (printf "media/%s" $item.overlay_img) }}
       {{ if $bg_img }}
         {{if $item.overlay_filter }}
-          {{ $style_bg = printf "%sbackground-image: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('%s');" $style_bg $bg_img.Permalink }}
+          {{ $style_bg = printf "%sbackground-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('%s');" $style_bg $bg_img.Permalink }}
         {{ else }}
           {{ $style_bg = printf "%sbackground-image: url('%s');" $style_bg $bg_img.Permalink }}
         {{end}}
