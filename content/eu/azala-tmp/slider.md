@@ -22,7 +22,7 @@ item:
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
     # overlay_color: '#666'  # An HTML color value.
     overlay_img: fusion-medical-animation-npjP0dCtoxo-unsplash.jpg  # Image path relative to your `assets/media/` folder
-    overlay_filter: 0.6  # Darken the image. Value in range 0-1.
+    overlay_filter: 0.6  # Darken the image. Empty for not darken.
     #  Options are `cover` (default), `contain`, or `actual` size.
     overlay_size: cover
     # Options include `left`, `center` (default), or `right`.

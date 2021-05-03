@@ -31,9 +31,6 @@
       {{ else }}
         {{ errorf "Couldn't find `%s` in the `assets/media/` folder - please add it." $item.overlay_img }}
       {{ end }}
-      {{ if $item.overlay_filter }}
-        {{ $style_bg = printf "%sfilter: brightness(%s);" $style_bg (string $item.overlay_filter) }}
-      {{ end }}
       {{ if $item.overlay_size }}
         {{ $style_bg = printf "%s background-size: %s;" $style_bg ($item.overlay_size | default "cover") }}
       {{ end }}
