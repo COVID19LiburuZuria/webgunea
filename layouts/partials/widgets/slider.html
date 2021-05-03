@@ -30,9 +30,12 @@
       {{ if $item.overlay_filter }}
         {{ $style_bg = printf "%sfilter: brightness(%s);" $style_bg (string $item.overlay_filter) }}
       {{ end }}
+      {{ if $item.overlay_size }}
+        {{ $style_bg = printf "%s background-size: %s;" $style_bg ($item.overlay_size | default "cover") }}
+       {{ end }}
    {{ end }}
 
-  <div class="wg-hero dark carousel-item{{if eq $index 0}} active{{end}}" style="{{$style_bg | safeCSS}}">
+  <div class="wg-hero dark parallax carousel-item{{if eq $index 0}} active{{end}}" style="{{$style_bg | safeCSS}}">
     <div class="container" style="text-align: {{$item.align | default "left"}};">
         <h1 class="hero-title">
           {{ with $item.title }}{{ . | markdownify | emojify }}{{ end }}
