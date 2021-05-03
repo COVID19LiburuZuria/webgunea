@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: Akademiko eta profesional talde anitzak landua
   icon: users
-  icon_pack: fab
+  icon_pack: fas
   name: Hausnarketa kolektibo bat
 - description: Lorem ipsum dolor...
   icon: bullseye
