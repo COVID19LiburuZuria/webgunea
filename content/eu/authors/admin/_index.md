@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Libro Blanco COVID–19
+title: COVID–19 Liburu Zuria
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Equipo de trabajo que ha contribuido a la redacción del Libro Blanco de la COVID–19
+role: COVID–19aren Liburu Zuria prestatu duen lantaldea
 
 # Organizations/Affiliations
 #organizations:
@@ -21,7 +21,17 @@ interests:
 #- Computational Linguistics
 #- Information Retrieval
 
-
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -30,7 +40,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:info@covid19liburuzuria.eus'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
