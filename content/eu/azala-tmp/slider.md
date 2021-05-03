@@ -26,12 +26,14 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Deskargatu Liburu Zuria
-    cta_url: 'https://example.org'
-    cta_icon_pack: fas
-    cta_icon: download
-    cta_alt_url: '/lib/'
-    cta_alt_label: Irakurri webgunean
+    cta:
+      label: Deskargatu Liburu Zuria
+      url: 'https://example.org'
+      icon_pack: fas
+      icon: download
+    cta_alt:
+      url: '/lib/'
+      label: Irakurri webgunean
   - title: Left
     content: 'I am left aligned 😄'
     align: left
