@@ -37,4 +37,4 @@ Testu hau landu dugun profesionalok, bai mundu akademikokook zein lehen mailako 
 [^2]: Horton, R. (2020). Offline: COVID-19 is not a pandemic. _The Lancet_ 396 (10255) 874. [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32000-6/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32000-6/fulltext)
 
 [^3]: The John Snow Memorandum (2020), [https://www.johnsnowmemo.com](https://www.johnsnowmemo.com).  
-      Elhuyar Aldizkaria (2020), [John Snow Memoranduma. [https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/](https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/)
+      Elhuyar Aldizkaria (2020), John Snow Memoranduma. [https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/](https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/)
