@@ -11,7 +11,6 @@ Esku artean duzuen liburu hau _shock_ kolektiboaren sentsazio hori gainetik asti
 
 Testu hau landu dugun profesionalok, bai mundu akademikokook zein lehen mailako langileok, honen bitartez, gure lankideak eta gizartea hausnarketa ariketa bat egitera gonbidatzen ditugu. Zertan asmatu dugun eta zertan huts egin dugun ulertzeko. Horretarako, gaur egun eskuragarri ditugun ebidentziak eta zuzeneko testigantzak jaso ditugu. Errespetuzko ikuspegi eraikitzaile batetik, etorkizun hurbilerako konponbideak eta proposamenak jartzen ditugu mahai gainean, krisialdi honetatik ahalik eta ondoen ateratzeko. Baita etorkizun ez hain hurbilerako, etorriko zaizkigun beste krisiei hobe aurre egiteko. Lan hau egiteko John Snow Memoranduma[^3] hartu dugu oinarri ideologikotzat. Eta hasiera batean ZeroCovid4 estrategia proposatzea pentsatzen bagenuen ere, COVID-19ri buruzko Liburu Zuriaren lehen edizio honetan konponbide ez hain utopikoak proposatzea erabaki dugu. Irmoki sinesten dugu gardentasunaren, eztabaidaren eta elkarrizketa sozialaren premian, eta, horretarako, lan-zirriborro gisa eskaintzen ditugu esparru hauetarako egin ditugun txostenak: 
 
-## Edukiak
 
 1. Osasungintza
     - [Osasungintza soziosanitarioa](osasungintza)
@@ -35,7 +34,7 @@ Testu hau landu dugun profesionalok, bai mundu akademikokook zein lehen mailako 
 
 [^1]: **Oharra:** Liburu Zuri honetako testu batzuk Euskal Autonomia Erkidegoan kokatu dira, eta beste batzuk Hego Euskal Herriari buruzkoak izan dira. Kasu bakoitzean txostena prestatu duen taldearentzat eskuragarri dauden datuetan oinarritu direnez, erreferentzia-esparruen aniztasun horri eustea erabaki dugu. Jakin badakigu eskumen- eta administrazio-mugek egungo egoerak baldintzatzen dituztela, bai eta dauden arazoei irtenbideak emateko gaitasunari eragiten dietela ere. Hala ere, gure ustez, azterketa, ondorio eta proposamen sektorial xehatu gehienak antzeko aplikagarritasunekoak dira lurraldeko edozein eremuan.
 
-[^2]: Horton, R. (2020). Offline: COVID-19 is not a pandemic. _The Lancet_ 396 (10255) 874. [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32000-6/fulltext(https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32000-6/fulltext)
+[^2]: Horton, R. (2020). Offline: COVID-19 is not a pandemic. _The Lancet_ 396 (10255) 874. [https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32000-6/fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32000-6/fulltext)
 
-[^3]: [The John Snow Memorandum](https://www.johnsnowmemo.com)  
-    Elhuyar Aldizkaria (2020), [John Snow Memoranduma](https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/)
+[^3]: The John Snow Memorandum (2020), [https://www.johnsnowmemo.com](https://www.johnsnowmemo.com).  
+      Elhuyar Aldizkaria (2020), [John Snow Memoranduma. [https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/](https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/)

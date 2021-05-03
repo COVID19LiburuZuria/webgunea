@@ -3,7 +3,8 @@
 linktitle: Mikro eta mesoekonomia
 summary: ""
 weight: 8
-icon: coins
+#icon: coins
+icon: money-bill-alt
 icon_pack: fas
 
 # Page metadata.
