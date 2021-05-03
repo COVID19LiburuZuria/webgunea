@@ -35,7 +35,7 @@ Pandemiak izan duen ondoriorik larriena hilkortasuna izan da. Kaltetuenak adindu
 
 Adineko egoitzetako egoiliarrak dira pandemia larrien bizi izan dutenak[^18][^19]. Nabarmen ikusi ahal izan da azpiegitura falta. Baita baldintza txarretan bizi diren pertsona guztien egoera Osasungintza publikoko langileen gain geratu dela, bai alde sanitarioa eta sozialaren kudeaketa. Pandemia bati aurre egiteko egoki prestaturik ez zeuden arren, beraien kabuz eta baliabiderik gabe aritu behar izan dute.
 
-Pandemiak osasungintzaren kudeaketak dituen berezko ahuleziak azalarazi ditu[^21][^22][^23][^24^][^25][^26]: Ez da [ko-gobernantzarik egon](https://twitter.com/la_ser/status/1309477854128857094) inplikatutako alde guztien artean (agintariak, osasun guneetako zuzendaritza taldeak, batzorde klinikoak, gizarte erakunde anitzetako karguak, udalak, komunitateko elkarteak, etab.). Profesionalen motibazioa eta onespena ez da kontutan izan, eta “neke pandemikoa” ez da kontutan hartu[^27]. Osasun Publikoko barne antolamenduan koordinazio eskasa agerian geratu da, irizpide garbiak, parte hartze prozesuak eta gizarte osoaren erantzun amankomuna beharrezkoak ziren ohiz kanpoko une bat izanik[^28]. Laburbilduz, “_laissez faire-laissez passer_” (utzi egiten, utzi pasatzen) modeloa zabaldu da kudeaketan.
+Pandemiak osasungintzaren kudeaketak dituen berezko ahuleziak azalarazi ditu[^21][^22][^23][^24][^25][^26]: Ez da [ko-gobernantzarik egon](https://twitter.com/la_ser/status/1309477854128857094) inplikatutako alde guztien artean (agintariak, osasun guneetako zuzendaritza taldeak, batzorde klinikoak, gizarte erakunde anitzetako karguak, udalak, komunitateko elkarteak, etab.). Profesionalen motibazioa eta onespena ez da kontutan izan, eta “neke pandemikoa” ez da kontutan hartu[^27]. Osasun Publikoko barne antolamenduan koordinazio eskasa agerian geratu da, irizpide garbiak, parte hartze prozesuak eta gizarte osoaren erantzun amankomuna beharrezkoak ziren ohiz kanpoko une bat izanik[^28]. Laburbilduz, “_laissez faire-laissez passer_” (utzi egiten, utzi pasatzen) modeloa zabaldu da kudeaketan.
 
 ### Pandemiak sortu berri dituen egoerak
 
@@ -209,7 +209,7 @@ Adinekoen egoitzek arazo bereziak izan dituzte[^40] egoiliarren sektorizazio lan
 
 
 <style type="text/css">
-#fnref\:3::before, #fnref\:5::before, #fnref\:6::before, #fnref\:7::before, #fnref\:8::before, #fnref\:10::before, #fnref\:12::before, #fnref\:15::before, #fnref\:16::before, #fnref\:19::before, #fnref\:22::before, #fnref\:23::before, #fnref\:24::before, #fnref\:25::before, #fnref\:26::before, #fnref\:32::before, #fnref\:33::before, #fnref\:34::before, #fnref\:35::before, #fnref\:36::before, #fnref\:39::before { content:', '; }
+#fnref\:3::before, #fnref\:5::before, #fnref\:6::before, #fnref\:7::before, #fnref\:8::before, #fnref\:10::before, #fnref\:12::before, #fnref\:15::before, #fnref\:16::before, #fnref\:19::before, #fnref\:21::before, #fnref\:22::before, #fnref\:23::before, #fnref\:24::before, #fnref\:25::before, #fnref\:26::before, #fnref\:32::before, #fnref\:33::before, #fnref\:34::before, #fnref\:35::before, #fnref\:36::before, #fnref\:39::before { content:', '; }
 </style>
 
 
