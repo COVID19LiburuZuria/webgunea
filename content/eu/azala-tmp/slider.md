@@ -14,8 +14,8 @@ height: 450px
 
 
 item:
-  - title: Izenburu bat hemen?
-    content: 'Dokumentuaren deskribapena edo dena delakoa. The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.'
+  - title: COVID-19aren Liburu Zuria
+    content: 'Pandemiak hamabost hilabete bete dituen honetan, arlo desberdinetako akademiko eta profesionalek egindako gogoeta kolektiboa.'
     # Choose `center`, `left`, or `right` alignment.
     align: left
     # Overlay a color or image (optional).
