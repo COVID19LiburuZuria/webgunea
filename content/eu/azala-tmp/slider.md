@@ -20,7 +20,7 @@ item:
     align: center
     # Overlay a color or image (optional).
     #   Deactivate an option by commenting out the line, prefixing it with `#`.
-    overlay_color: '#3f51b5'  # An HTML color value.
+    overlay_color: '#5c6b79'  # An HTML color value.
     #overlay_img: fusion-medical-animation-npjP0dCtoxo-unsplash.jpg  # Image path relative to your `assets/media/` folder
     #overlay_filter: 0.6  # Darken the image. Empty for not darken.
     #  Options are `cover` (default), `contain`, or `actual` size.

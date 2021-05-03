@@ -17,7 +17,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: post
+  page_type: event
 design:
-  view: 2
+  view: 3
 ---
