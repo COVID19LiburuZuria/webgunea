@@ -1,5 +1,6 @@
 ---
 title: Aurkezpen prentsaurrekoa
+draft: true 
 
 event: Wowchemy Conference
 event_url: https://example.org
