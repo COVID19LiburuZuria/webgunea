@@ -23,6 +23,8 @@ item:
     # overlay_color: '#666'  # An HTML color value.
     overlay_img: fusion-medical-animation-npjP0dCtoxo-unsplash.jpg  # Image path relative to your `assets/media/` folder
     overlay_filter: 0.6  # Darken the image. Value in range 0-1.
+    #  Options are `cover` (default), `contain`, or `actual` size.
+    overlay_size: cover
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
