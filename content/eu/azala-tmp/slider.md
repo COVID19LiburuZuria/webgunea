@@ -26,7 +26,7 @@ item:
     #  Options are `cover` (default), `contain`, or `actual` size.
     overlay_size: cover
     # Options include `left`, `center` (default), or `right`.
-    image_position: right
+    overlay_position: right
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
