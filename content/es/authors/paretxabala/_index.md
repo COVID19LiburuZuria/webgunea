@@ -26,12 +26,12 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:test@example.org'
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/ibon-gil-de-san-vicente-3a3b028
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ibon_gil
+- icon: rss-square
+  icon_pack: fas
+  link: https://hontza.blog
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/ibon_gil
 #  icon_pack: fab
 #  link: https://github.com/COVID19LiburuZuria
 # Link to a PDF of your resume/CV from the About widget.
