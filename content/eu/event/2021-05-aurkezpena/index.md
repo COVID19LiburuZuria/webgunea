@@ -61,4 +61,4 @@ Ezin bertaratuz gero, hona hemen harremanetarako pertsona eta tfnoa: **Ugo Mayor
 
 Aurrerapen gisa, hona hemen Liburu Zuriaren sarrera eta parte-hartzaileen zerrenda:
 
-{{< cta cta_text="<i class='fas fa-file-pdf'></i> Deskargatu" cta_link="/media/COVID19LiburuZuria_sarrera-lantaldea.pdf" cta_new_tab="false" >}}
+{{< cta cta_text="<i class='fas fa-download'></i> Deskargatu" cta_link="/media/COVID19LiburuZuria_sarrera-lantaldea.pdf" cta_new_tab="false" >}}
