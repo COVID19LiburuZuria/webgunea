@@ -36,7 +36,7 @@ image:
   
 
 url_code: ""
-url_pdf: "COVID19LiburuZuria_sarrera-lantaldea.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -58,3 +58,7 @@ projects:
 Harremanetarako: 
 
 Ezin bertaratuz gero, hona hemen harremanetarako pertsona eta tfnoa: **Ugo Mayor, 666735767** (zuzenean deitzeko 17:00etatik 20:00etara bakarrik. Beste orduetan Whatsapp edo Telegramaz kontaktatu).
+
+Aurrerapen gisa, hona hemen Liburu Zuriaren sarrera eta parte-hartzaileen zerrenda:
+
+{{< cta cta_text="Deskargatu" cta_link="/media/COVID19LiburuZuria_sarrera-lantaldea.pdf" cta_new_tab="false" >}}
