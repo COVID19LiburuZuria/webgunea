@@ -32,7 +32,10 @@
       {{ end }}
       {{ if $item.overlay_size }}
         {{ $style_bg = printf "%s background-size: %s;" $style_bg ($item.overlay_size | default "cover") }}
-       {{ end }}
+      {{ end }}
+      {{ if $item.overlay_position }}
+        {{ $style_bg = printf "%s background-position: %s center;" $style_bg ($item.overlay_position | default "center") }}
+      {{ end }}
    {{ end }}
 
   <div class="wg-hero dark parallax carousel-item{{if eq $index 0}} active{{end}}" style="{{$style_bg | safeCSS}}">

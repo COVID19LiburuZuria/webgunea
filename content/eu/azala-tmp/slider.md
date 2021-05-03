@@ -25,6 +25,8 @@ item:
     overlay_filter: 0.6  # Darken the image. Value in range 0-1.
     #  Options are `cover` (default), `contain`, or `actual` size.
     overlay_size: cover
+    # Options include `left`, `center` (default), or `right`.
+    image_position: right
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
