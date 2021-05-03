@@ -31,11 +31,12 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: The Climate Reality Project for [**Unsplash**](https://unsplash.com/photos/Hb6uWq0i4MI)'
   focal_point: Right
+  
 
 url_code: ""
-url_pdf: ""
+url_pdf: "COVID19LiburuZuria_sarrera-lantaldea.pdf"
 url_slides: ""
 url_video: ""
 
