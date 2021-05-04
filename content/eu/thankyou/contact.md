@@ -10,12 +10,6 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-design:
-  columns: '1'
-
-advanced:
-  css_style: 'text-align:center;'
-  css_class: ''
 ---
 
 Zure mezua behar bezala bidali da. Laster jarriko gara zurekin harremanetan.
