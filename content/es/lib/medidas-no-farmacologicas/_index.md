@@ -78,7 +78,7 @@ Es necesario dotar de recursos humanos, técnicos, materiales y económicos a la
 - Establecer un Dispositivo de Rastreo en el Servicio de Epidemiología del Departamento de Salud, que coordine la Estrategia de Vigilancia y Control y provea al Dispositivos de Alertas y Preparación y Respuesta de la inteligencia epidemiológica necesaria (brotes, ámbitos de transmisión, variantes, etc.) para la adopción de las MNFs.
 - Generar grupos especializados de rastreadores por ámbitos priorizados bajo la dependencia de las Unidades de Vigilancia Epidemiológica para la gestión e investigación de brotes y coordinación de los estudios de contactos: escolar, universitario, sociosanitario, sanitario, social, deportivo y laboral. 
 - Introducir, formar y remunerar las figuras de Coordinadores COVID entre los trabajadores de los ámbitos priorizados con el fin garantizar la coordinación e información de las actuaciones (remisión de listados de usuarios, bloqueo de grupos burbuja, paralización de actividades, etc.)
-- Asegurar la cobertura(A)[^A] legal o financiera para que los progenitores de niños/as en cuarentena por contacto puedan custodiarlos sin recurrir a terceras personas, dado el riesgo que esto supone. Asímismo proveer de la cobertura necesaria a autónomos, pequeñas empresas y otros trabajadores en circunstancias precarias.
+- Asegurar la cobertura(A)[^17] legal o financiera para que los progenitores de niños/as en cuarentena por contacto puedan custodiarlos sin recurrir a terceras personas, dado el riesgo que esto supone. Asímismo proveer de la cobertura necesaria a autónomos, pequeñas empresas y otros trabajadores en circunstancias precarias.
 - Disponer de recursos hoteleros y equivalentes (“Hospitales Arca de Noé”) para el aislamiento de los casos leves y ampliar la provisión de alojamientos para la cuarentena de los contactos estrechos.
 - Implementar códigos (digitales o físicos) para la identificación de contactos en lugares cerrados compartidos con personas ajenas al círculo laboral, escolar o familiar.
 
@@ -91,8 +91,8 @@ Es necesario actualizar el Plan de Preparación y Respuesta:
 - Introducción de medidas en positivo que garanticen transitoriamente el cumplimiento del distanciamiento social: potenciar el teletrabajo mientras la incidencia acumulada en 14 días sea mayor de 10 o la trazabilidad menor del 90%. Así mismo, reducir los aforos en el transporte, ampliando frecuencias en franjas de mayor acumulación de pasajeros/tránsito.
 
 Otras medidas de Prevención: 
-- En los viajes, en adición a la PCR en origen (72h antes), asegurar la realización de Pruebas Diagnósticas de Infección Activa (PDIA) a llegada en la frontera. Adicionalmente, implementar un seguimiento estricto de contactos y la realización de PCRs (gratuitas) a los 2 y 5 días desde llegada, para asegurar la no importación de variantes de preocupación(B).
-- Considerar dirigir el uso de medidas limitadoras a la creación de _santuarios_ en las zonas con semáforo de riesgo en verde, con el objetivo de proteger estas comarcas libres de virus. Por ejemplo, podría plantearse en las comarcas con incidencia cero un confinamiento perimetral, para así evitar/reducir la entrada de contagios(C), acompañado de la eliminación total de las restricciones sociales dentro de ellas.
+- En los viajes, en adición a la PCR en origen (72h antes), asegurar la realización de Pruebas Diagnósticas de Infección Activa (PDIA) a llegada en la frontera. Adicionalmente, implementar un seguimiento estricto de contactos y la realización de PCRs (gratuitas) a los 2 y 5 días desde llegada, para asegurar la no importación de variantes de preocupación[^18].
+- Considerar dirigir el uso de medidas limitadoras a la creación de _santuarios_ en las zonas con semáforo de riesgo en verde, con el objetivo de proteger estas comarcas libres de virus. Por ejemplo, podría plantearse en las comarcas con incidencia cero un confinamiento perimetral, para así evitar/reducir la entrada de contagios[^19], acompañado de la eliminación total de las restricciones sociales dentro de ellas.
 - Transmitir de forma clara y coherente información sobre las vías de contagio. En particular, comunicar mejor el riesgo de contagio por aerosoles en recintos cerrados. Coordinar la estrategia de comunicación a nivel territorial, incluyendo la actualización de la información para la ciudadanía mediante herramientas estilo FAQ (preguntas frecuentes).
 
 Otras actuaciones de Vigilancia:
@@ -103,26 +103,47 @@ Otras actuaciones de Vigilancia:
 - Vigilar los casos de infección en población vacunada, monitorizando las diferentes variantes que causan la enfermedad en población vacunada, y realizando estudios de contactos ampliados.
 - Coordinar los Sistemas de Información Sanitaria conectando entre sí las aplicaciones de rastreo, vigilancia epidemiológica y resultados de laboratorio, e impulsando la automatización del volcado de la información estructurada. Gestionar el volcado automático de las pruebas diagnósticas incluyendo la información de los cribados poblacionales.
 
-[^A]: _(A) Tras la finalización del Estado de Alarma requeriría cobertura normativa en legislación ordinaria_.
-_(B) A tenerse en cuenta que la competencia en materia de fronteras es exclusiva del gobierno central_.
-_(C) Requiere Estado de Alarma si se proyecta sobre toda la población_.
+[^17]: Tras la finalización del Estado de Alarma requeriría cobertura normativa en legislación ordinaria.
+
+[^18]: A tenerse en cuenta que la competencia en materia de fronteras es exclusiva del gobierno central.
+
+[^19]: Requiere Estado de Alarma si se proyecta sobre toda la población.
 
 
-[^1]: Informe técnico. Propuesta de medidas y cuestiones a considerar para la fase de transición de la pandemia por SARS-CoV-2 en España. 10 abril 2020. Revista Española de Medicina Preventiva y Salud Pública. Vol. XXV, Nos 1 y 2, Año 2020.
+[[^1]: Informe técnico. Propuesta de medidas y cuestiones a considerar para la fase de transición de la pandemia por SARS-CoV-2 en España. 10 abril 2020. Revista Española de Medicina Preventiva y Salud Pública. Vol. XXV, Nos 1 y 2, Año 2020.
+
 [^2]: European Centre for Disease Prevention and Control. Outbreak of novel coronavirus disease 2019 (COVID-19): increased transmission globally – fifth update, 2 March 2020. ECDC: Stockholm; 2020.
-[^3]: Documento técnico. Medidas de preparación y respuesta recomendadas por escenarios epidémicos de COVID-19. Versión 25.02.2020. Centro de Coordinación de Alertas y Emergencias Sanitarias, Dirección General de Salud Pública, Calidad e Innovación. Ministerio de Sanidad (2020). 
+
+[^3]: Documento técnico. Medidas de preparación y respuesta recomendadas por escenarios epidémicos de COVID-19. Versión 25.02.2020. Centro de Coordinación de Alertas y Emergencias Sanitarias, Dirección General de Salud Pública, Calidad e Innovación. Ministerio de Sanidad (2020).
+
 [^4]: European Centre for Disease Prevention and Control. Guidelines for the use of non-pharmaceutical measures to delay and mitigate the impact of 2019-nCoV. ECDC: Stockholm; 2020
-[^5]: Documento técnico. Medidas de preparación y respuesta recomendadas por escenarios epidémicos de COVID-19. Versión 09.03.2020. Centro de Coordinación de Alertas y Emergencias Sanitarias, Dirección General de Salud Pública, Calidad e Innovación. Ministerio de Sanidad (2020). 
+
+[^5]: Documento técnico. Medidas de preparación y respuesta recomendadas por escenarios epidémicos de COVID-19. Versión 09.03.2020. Centro de Coordinación de Alertas y Emergencias Sanitarias, Dirección General de Salud Pública, Calidad e Innovación. Ministerio de Sanidad (2020).
+
 [^6]: Plan Nacional de Preparación y Respuesta ante una Pandemia de Gripe. 2005 Ministerio de Sanidad y Consumo https://www.mscbs.gob.es/ciudadanos/enfLesiones/enfTransmisibles/docs/PlanGripeEspanol.pdf
-[^7]: Vigilancia y control de casos y contactos estrechos para la fase de desescalada de la pandemia COVID-19 en Euskadi. Versión 5 - Fecha 20.05.2020 
-https://www.euskadi.eus/contenidos/informacion/vigilancia_control_covid19/es_def/adjuntos/Plan-vigilancia-control-desescalada-COVID19.pdf
+
+[^7]: Vigilancia y control de casos y contactos estrechos para la fase de desescalada de la pandemia COVID-19 en Euskadi. Versión 5 - Fecha 20.05.2020 https://www.euskadi.eus/contenidos/informacion/vigilancia_control_covid19/es_def/adjuntos/Plan-vigilancia-control-desescalada-COVID19.pdf
+
 [^8]: Informe del viceconsejero de salud sobre la situación actual en la evolución de la pandemia. José Luis Quintas Díez, 11 de febrero de 2021
-[^9]: https://confilegal.com/20210209-el-tsjpv-permite-reabrir-los-establecimientos-hosteleros-en-el-pais-vasco-en-zonas-con-alta-incidencia-de-covid-19/
+
+[^9]: [https://confilegal.com/20210209-el-tsjpv-permite-reabrir-los-establecimientos-hosteleros-en-el-pais-vasco-en-zonas-con-alta-incidencia-de-covid-19/](https://confilegal.com/20210209-el-tsjpv-permite-reabrir-los-establecimientos-hosteleros-en-el-pais-vasco-en-zonas-con-alta-incidencia-de-covid-19/)
+
 [^10]: Flattening the curve on COVID-19 - How Korea responded to a pandemic using ICT (2020) https://overseas.mofa.go.kr/us-houston-en/brd/m_5573/view.do?seq=759765
+
 [^11]: Informe de indicadores principales de seguimiento de COVID-19 (actualización semanal) 15.04.2021 https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/informe_covid_es_publico_2021-04-15.pdf
-[^12]: Información sobre la evolución del coronavirus en Euskadi (boletines diarios en días laborables) https://www.euskadi.eus/boletin-de-datos-sobre-la-evolucion-del-coronavirus/web01-a2korona/es/ 
+
+[^12]: Información sobre la evolución del coronavirus en Euskadi (boletines diarios en días laborables) [https://www.euskadi.eus/boletin-de-datos-sobre-la-evolucion-del-coronavirus/web01-a2korona/es/](https://www.euskadi.eus/boletin-de-datos-sobre-la-evolucion-del-coronavirus/web01-a2korona/es/)
+
 [^13]: Situación de COVID-19 en España a 21 de abril de 2021. Equipo COVID-19. RENAVE. CNE. CNM (ISCIII)
+
 [^14]: https://www.eitb.eus/es/noticias/sociedad/videos/detalle/7805660/video-osakidetza-comienza-aplicar-retrorastreo-7-dias-detectar-focos/
-[^15]: Kojaku S, Hébert-Dufresne L, Mones E, et al (2021). The effectiveness of backward contact tracing in networks. Nat. Phys. https://doi.org/10.1038/s41567-021-01187-2 
+
+[^15]: Kojaku S, Hébert-Dufresne L, Mones E, et al (2021). The effectiveness of backward contact tracing in networks. _Nat. Phys._ https://doi.org/10.1038/s41567-021-01187-2
+
 [^16]: Ronda 5: encuesta realizada en marzo de 2021. Monitorización del comportamiento y las actitudes de la población relacionadas con la COVID-19 en España (COSMO-SPAIN): Estudio OMS. Instituto de Salud Carlos III.
+
+
+<style type="text/css">
+#fnref\:3::before, #fnref\:4::before, #fnref\:5::before, #fnref\:15::before { content:', '; }
+</style>
 

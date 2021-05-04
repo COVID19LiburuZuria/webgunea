@@ -118,46 +118,91 @@ d) Las **residencias de personas mayores** han tenido especiales problemas en la
 - Garantizar la vigilancia sanitaria por el sector público, con el objetivo de dar una atención integral a los y las residentes, proporcionándoles así una mejor calidad de vida. Las familias, el personal y los sanitarios y sanitarias deben disponer de espacios comunes para planificar y desarrollar esta vida de calidad.
 
 
-[^1]: Constitution of the World Health Organization. WHO, 1946 (https://www.who.int/about/who-we-are/constitution )
-[^2]: Han E, et al. (2020) Lessons learnt from easing Covid-19 restrictions: an analysis of countries and regions in Asia Pacific and Europe. _Lancet_ 396:1525-34.
-[^3]: Legido-Quigley H, et al. (2020) The resilience of the Spanish health system against the Covid-19 pandemic. _Lancet_ 5(5):e251-2. 
-[^4]: García-Basteiro AI, et al. (2020) Evaluation of the Covid-19 response in Spain: principles and requirements. _Lancet_ 5(11):e575.
-[^5]: Chua AQ, et al. (2020) Health system resilience in managing the Covid-19 pandemic: lessons from Singapore. _BMJ Global Health 5_:e003317.
-[^6]: García-Basteiro AI, et al. (2020) The need for an independent evaluation of the Covid-19 response in Spain. _Lancet_ 396:529-530.
-[^7]: Martín-Moreno JM, et al. (2020) Reflexiones sobre cómo evaluar y mejorar la respuesta a la pandemia de Covid-19. _Gac Sanit_ S0213-9111(20):30254-5.
-[^8]: https://cmaaustralia.edu.au/ontarget/grid-index-tracking-the-global-leadership-response-in-the-covid-19-crisis/
-[^9]: Indicadores clave, Sistema nacional de salud. Ministerio de Sanidad, Consumo y Bienestar Social. 202]: (inclasns.msssi.es/main.html?permalink=fd5f8cfc505aeaaff99b3b04b490ee13#multipleBar-741454)
-[^10]: Recursos económicos del sistema nacional de salud. Ministerio de Sanidad, Gobierno de España, 2020. (https://www.mscbs.gob.es/estadEstudios/estadisticas/inforRecopilaciones/recursosEconomicos.htm )
-[^11]: https://www.mscbs.gob.es/profesionales/proyectosActividades/docs/Marco_Estrategico_APS_25Abril_2019.pdf
-[^12]: https://www.medicosdelmundo.org/sites/default/files/recomendaciones-sanidad-publica-universal-calidad.pdf
-[^13]: https://www.who.int/es/news/item/22-09-2019-countries-must-invest-at-least-1-more-of-gdp-on-primary-health-care-to-eliminate-glaring-coverage-gaps
-[^14]: Informes MoMo. Ministerio de Sanidad y Consumo y Bienestar Social. Gobierno de España, 2020 y 2021. (https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/MoMo.aspx)
-[^15]: Informes Covid. Ministerio de Sanidad y Consumo y Bienestar Social. Gobierno de España, 2020 y 2021. (https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Paginas/InformesCOVID-19.aspx)
-[^16]: Open Data Euskadiko datu katalogoa. Eusko Jaurlaritza, 2020 eta 2021. (https://opendata.euskadi.eus/datu-katalogoa)
-[^17]: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases
-[^18]: Abandonadas a su suerte. La desprotección y discriminación de las personas mayores en residencies durante la pandemia Covid-19 en España. Amnistía internacional, diciembre 2020.
-[^19]: Poco, tarde y mal. El inaceptable desamparo de los mayores en las residencies durante la Covid-19 en España. Médicos Sin Fronteras, Agosto 2020.
-[^20]: La atención primaria, principal víctima de una década de recortes en Sanidad. El siglo de Europa. 23/07/2020. (https://elsiglodeuropa.es/la-atencion-primaria-principal-victima-de-una-decada-de-recortes-en-sanidad/)
-[^21]: Rosano A, et al. (2013) The relationship between avoidable hospitalization and accessibility to primary care: a systematic review. Eur J Public Health 23(3):356-60. 
-[^22]: Sanchez-Amat M, et al. (2021) ¿ Qué es la Atención Primaria de Salud? AMF 17(2): 76-84. 
-[^23]: Starfield B. Primary Care: Concept, Evaluation, and Policy. New York: Oxford University Press; 1992. 280 p. 
-[^24]: McWhinney IR. (1998) Primary care: core values. Core values in a changing world. BMJ 316(7147):1807-9. 
-[^25]: Tieman J, et al. Integration, coordination and multidisciplinary approaches in primary care: a systematic investigation of the literature. Australia: Australian Primary Health Care Research Institute, Australian National University College of Health & Medicine; 2017. https://rsph.anu.edu
-[^26]: Simó J. Salud, dinero y atención primaria: La «serpiente» del gasto de personal también existe. 30/03/2019 (http://saludineroap. blogspot.com/2019/03/la-serpien te-del-gasto-de-personal.html)
-[^27]: Recomendaciones sobre estrategias comunicativas frente a la fatiga pandémica. Grupo de trabajo del Consejo Interterritorial de Sistema Nacional de Salud para Estrategia Comunicativa frente a la Fatiga Pandémica. 3/02/2021. (https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Recomendaciones_estrategias_comunicacion_fatiga_pandemica.pdf)
-[^28]: Kringos DS, et al. Building primary care in a changing Europe. European Observatory on Health Systems and Policies, World Health Organization 2015. https://apps.who.int/iris/bitstream/handle/10665/154350/9789289050319-eng.pdf?sequence=3&isAllowed=y 
-[^29]: Solera Albero J, et al. (2020) La Atención Primaria de Salud: más necesaria que nunca en la crisis del Coronavirus. _JONNPR_ 5(5):468-72.
-[^30]: Estudio nacional de sero-epidemiología de la infección por SARS-CoV-2 en España (ENE-Covid). Ministerio de Sanidad y Consumo y Bienestar Social. Gobierno de España, 2020. (https://www.mscbs.gob.es/ciudadanos/ene-covid/home.htm)
-[^31]: Ojetti V, et al. (2020) Non-Covid diseases during the pandemic: where have all other emergencies gone? _Medicina_ (Kaunas);56:512.
-[^32]: Kontopantelis E, et al. (2021) Excess mortality in England and Wales during the first wave of the Covid-19 pandemic. _J Epidemiol Community Health_ 75:213-23.
-[^33]: Mannucci E, el al. (2020) Factors associated with increased all-cause mortality during the Covid-19 pandemic in Italy. _Int J Infect Dis_ 98:121-4.
-[^34]: Jacobson SH, et al. (2020) Non-Covid-19 excess deaths by age and gender in the Unitated States during the first three months of the Covid-19 pandemic. _Public Health_ 189:101-3.
-[^35]: Palmer K, et al. (2020) The potential long-term impact of the Covid-19 outbreak on patients with non-communicable diseases in Europe: consequences for healthy ageing. _Aging Clin Exp_ Res 32:1189-94.
-[^36]: Azarpazhooh MR, et al. (2020) Covid-19 pandemic and burden of non-communicable diseases: an ecological study on data of 185 countries. _J stroke Cerebrovasc Dis_ 29:105089.
-[^37]: Lancet Commission on Women and Health. https://www.womenandhealthcommission.org/
-[^38]: Bentall R. Has the pandemic really caused a “tsunami” of mental health problems? The Guardian, 9/02/2021. (https://amp.theguardian.com/commentisfree/2021/feb/09/pandemic-mental-health-problems-research-coronavirus?__twitter_impression=true)
-[^39]: Chacón-Fuertes F, et al. (2020) La psicología ante la pandemia de la Covid-19 en España. La respuesta de la organización colegial. _Clínica y Salud_ 31(2):119-23.
-[^40]: “Covid- 19 gaitzaren aurrean hartutako neurriak”. Gipuzkoako Foru Aldundia (https://www.gipuzkoa.eus/documents/13851246/0/20210302+GFA-Koronabirusa-Neurriak.pdf/10f250ff-f844-80e3-04a2-74443e9b7c17 )
-[^41]: Rioja I, Pereda R. 1000 muertos en las residencies vascas o cómo el 5,6% de los mayores internos ha fallecido con Covid-19. Eldiario.es, 1/02/2021.
-[^42]: Observatorio de la Realidad Social, Efectos del COVID-19 en las residencias de mayores de Navarra. Departamento de Derechos Sociales, Pamplona, 2020, 38 p. 
+[^1]: WHO (1946). Constitution of the World Health Organization, [https://www.who.int/about/who-we-are/constitution](https://www.who.int/about/who-we-are/constitution)
+    
+[^2]: Han E., et al. (2020) Lessons learnt from easing Covid-19 restrictions: an analysis of countries and regions in Asia Pacific and Europe. _Lancet_ 396:1525-34.
+    
+[^3]: Legido-Quigley H., et al. (2020) The resilience of the Spanish health system against the Covid-19 pandemic. _Lancet_ 5(5):e251-2.
+    
+[^4]: García-Basteiro A.I., et al. (2020) Evaluation of the Covid-19 response in Spain: principles and requirements. _Lancet_ 5(11):e575.
+    
+[^5]: Chua A.Q., et al. (2020) Health system resilience in managing the Covid-19 pandemic: lessons from Singapore. _BMJ Global Health_ 5:e003317.
+    
+[^6]: García-Basteiro A.I., et al. (2020) The need for an independent evaluation of the Covid-19 response in Spain. _Lancet_ 396:529-530.
+    
+[^7]: Martín-Moreno J.M., et al. (2020) Reflexiones sobre cómo evaluar y mejorar la respuesta a la pandemia de Covid-19. _Gac Sanit_ S0213-9111(20):30254-5.
+    
+[^8]: D'Souza C. (2020) GRID Index: Tracking the Global Leadership Response in the COVID-19 Crisis. _CMA Australia_, [https://cmaaustralia.edu.au/ontarget/grid-index-tracking-the-global-leadership-response-in-the-covid-19-crisis/](https://cmaaustralia.edu.au/ontarget/grid-index-tracking-the-global-leadership-response-in-the-covid-19-crisis/)
+    
+[^9]: Gobierno de España, Ministerio de Sanidad, Consumo y Bienestar Social (2021) Indicadores clave, Sistema nacional de salud. [http://inclasns.msssi.es/main.html?permalink=fd5f8cfc505aeaaff99b3b04b490ee13#multipleBar-741454](http://inclasns.msssi.es/main.html?permalink=fd5f8cfc505aeaaff99b3b04b490ee13#multipleBar-741454)
+    
+[^10]: Gobierno de España, Ministerio de Sanidad, Gobierno de España (2020) Recursos económicos del sistema nacional de salud. [https://www.mscbs.gob.es/estadEstudios/estadisticas/inforRecopilaciones/recursosEconomicos.htm](https://www.mscbs.gob.es/estadEstudios/estadisticas/inforRecopilaciones/recursosEconomicos.htm)
+    
+[^11]: Gobierno de España, Ministerio de Sanidad, Consumo y Bienestar Social (2019) Marco Estratégico para la Atención Primaria y Comunitaria. https://www.mscbs.gob.es/profesionales/proyectosActividades/docs/Marco_Estrategico_APS_25Abril_2019.pdf
+    
+[^12]: Recomendaciones para recuperar y garantizar una sanidad pública, universal y de calidad (2020). [https://www.medicosdelmundo.org/sites/default/files/recomendaciones-sanidad-publica-universal-calidad.pdf](https://www.medicosdelmundo.org/sites/default/files/recomendaciones-sanidad-publica-universal-calidad.pdf)
+    
+[^13]: WHO (2019) "Los países deben invertir en atención primaria de salud al menos un 1% adicional de su PIB para eliminar las deficiencias de cobertura flagrantes". [https://www.who.int/es/news/item/22-09-2019-countries-must-invest-at-least-1-more-of-gdp-on-primary-health-care-to-eliminate-glaring-coverage-gaps](https://www.who.int/es/news/item/22-09-2019-countries-must-invest-at-least-1-more-of-gdp-on-primary-health-care-to-eliminate-glaring-coverage-gaps)
+    
+[^14]: Gobierno de España, Ministerio de Sanidad y Consumo y Bienestar Social (2020, 2021) Vigilancia de la Mortalidad Diaria (MoMo). [https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/MoMo.aspx](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/MoMo.aspx)
+    
+[^15]: Gobierno de España, Ministerio de Sanidad y Consumo y Bienestar Social (2020, 2021) Informes COVID-19 [https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Paginas/InformesCOVID-19.aspx](https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/Paginas/InformesCOVID-19.aspx)
+    
+[^16]: Eusko Jaurlaritza (2020, 2021) Open Data Euskadiko datu katalogoa. [https://opendata.euskadi.eus/datu-katalogoa](https://opendata.euskadi.eus/datu-katalogoa)
+    
+[^17]: UK Government, Office for National Statistics (2020, 2021) Coronavirus (COVID-19). https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases
+    
+[^18]: Amnistía Internacional (2020) Abandonadas a su suerte. La desprotección y discriminación de las personas mayores en residencies durante la pandemia Covid-19 en España. https://www.amnesty.org/es/latest/news/2020/12/spain-older-people-in-care-homes-abandoned-during-covid19-pandemic/
+    
+[^19]: Médicos Sin Fronteras (2020) Poco, tarde y mal. El inaceptable desamparo de los mayores en las residencies durante la Covid-19 en España. https://www.msf.es/sites/default/files/documents/medicossinfronteras-informe-covid19-residencias.pdf
+    
+[^20]: El siglo de Europa (2020) La atención primaria, principal víctima de una década de recortes en Sanidad. [https://elsiglodeuropa.es/la-atencion-primaria-principal-victima-de-una-decada-de-recortes-en-sanidad/](https://elsiglodeuropa.es/la-atencion-primaria-principal-victima-de-una-decada-de-recortes-en-sanidad/)
+    
+[^21]: Rosano A., et al. (2013) The relationship between avoidable hospitalization and accessibility to primary care: a systematic review. _Eur J Public Health_ 23(3):356-60.
+    
+[^22]: Sanchez-Amat M., et al. (2021) ¿Qué es la Atención Primaria de Salud? _AMF_ 17(2): 76-84.
+    
+[^23]: Starfield B. (1992) _Primary Care: Concept, Evaluation, and Policy_. New York: Oxford University Press (p.280)
+    
+[^24]: McWhinney I.R. (1998) Primary care: core values. Core values in a changing world. _BMJ_ 316(7147):1807-9.
+    
+[^25]: Tieman J., et al. (2017) Integration, coordination and multidisciplinary approaches in primary care: a systematic investigation of the literature. Australia: Australian Primary Health Care Research Institute, Australian National University College of Health & Medicine [https://rsph.anu.edu](https://rsph.anu.edu/)
+    
+[^26]: Simó J. (2019) Salud, dinero y atención primaria: La «serpiente» del gasto de personal también existe. http://saludineroap. blogspot.com/2019/03/la-serpien te-del-gasto-de-personal.html
+    
+[^27]: Grupo de trabajo del Consejo Interterritorial de Sistema Nacional de Salud para Estrategia Comunicativa frente a la Fatiga Pandémica (2021) Recomendaciones sobre estrategias comunicativas frente a la fatiga pandémica. https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Recomendaciones\_estrategias\_comunicacion\_fatiga\_pandemica.pdf
+    
+[^28]: Kringos D.S., et al. (2015) Building primary care in a changing Europe. European Observatory on Health Systems and Policies, World Health Organization  [https://apps.who.int/iris/bitstream/handle/10665/154350/9789289050319-eng.pdf?sequence=3&isAllowed=y](https://apps.who.int/iris/bitstream/handle/10665/154350/9789289050319-eng.pdf?sequence=3&isAllowed=y)
+    
+[^29]: Solera Albero J., et al. (2020) La Atención Primaria de Salud: más necesaria que nunca en la crisis del Coronavirus. _JONNPR_ 5(5):468-72.
+    
+[^30]: Gobierno de España, Ministerio de Sanidad y Consumo y Bienestar Social (2020) Estudio nacional de sero-epidemiología de la infección por SARS-CoV-2 en España (ENE-Covid). [https://www.mscbs.gob.es/ciudadanos/ene-covid/home.htm](https://www.mscbs.gob.es/ciudadanos/ene-covid/home.htm)
+    
+[^31]: Ojetti V., et al. (2020) Non-Covid diseases during the pandemic: where have all other emergencies gone? _Medicina_ (Kaunas);56:512.
+    
+[^32]: Kontopantelis E., et al. (2021) Excess mortality in England and Wales during the first wave of the Covid-19 pandemic. _J Epidemiol Community Health_ 75:213-23.
+    
+[^33]: Mannucci E., el al. (2020) Factors associated with increased all-cause mortality during the Covid-19 pandemic in Italy. _Int J Infect Dis_ 98:121-4.
+    
+[^34]: Jacobson S.H., et al. (2020) Non-Covid-19 excess deaths by age and gender in the Unitated States during the first three months of the Covid-19 pandemic. _Public Health_ 189:101-3.
+    
+[^35]: Palmer .K, et al. (2020) The potential long-term impact of the Covid-19 outbreak on patients with non-communicable diseases in Europe: consequences for healthy ageing. _Aging Clin Exp Res_ 32:1189-94.
+    
+[^36]: Azarpazhooh M.R., et al. (2020) Covid-19 pandemic and burden of non-communicable diseases: an ecological study on data of 185 countries. _J stroke Cerebrovasc Dis_ 29:105089.
+    
+[^37]: Lancet Commission on Women and Health. [https://www.womenandhealthcommission.org/](https://www.womenandhealthcommission.org/)
+    
+[^38]: Bentall R. (2021) Has the pandemic really caused a “tsunami” of mental health problems? _The Guardian_. https://amp.theguardian.com/commentisfree/2021/feb/09/pandemic-mental-health-problems-research-coronavirus
+    
+[^39]: Chacón-Fuertes F., et al. (2020) La psicología ante la pandemia de la Covid-19 en España. La respuesta de la organización colegial. _Clínica y Salud_ 31(2):119-23.
+    
+[^40]: Gipuzkoako Foru Aldundia (2020) Covid- 19 gaitzaren aurrean hartutako neurriak. [http://www.gipuzkoa.eus/eu/web/covid19](http://www.gipuzkoa.eus/eu/web/covid19)
+    
+[^41]: Rioja I., Pereda R. (2021) 1000 muertos en las residencies vascas o cómo el 5,6% de los mayores internos ha fallecido con Covid-19. _Eldiario.es_. https://www.eldiario.es/euskadi/1-000-muertos-residencias-vascas-revelan-5-6-mayores-internos-fallecido-covid-19_1_7185157.html
+    
+[^42]: Fresno J.M., et al. (2020) Efectos del COVID-19 en las residencias de mayores de Navarra. Gobierno de Navarra, Departamento de Derechos Sociales, Observatorio de la Realidad Social (p.38) https://www.observatoriorealidadsocial.es/es/estudios/auditoria-de-los-centros-residenciales-en-navarra-ante-la-crisis-de-la-covid-19/es-556293/
+
+<style type="text/css">
+#fnref\:3::before, #fnref\:5::before, #fnref\:6::before, #fnref\:7::before, #fnref\:8::before, #fnref\:10::before, #fnref\:12::before, #fnref\:15::before, #fnref\:16::before, #fnref\:19::before, #fnref\:21::before, #fnref\:22::before, #fnref\:23::before, #fnref\:24::before, #fnref\:25::before, #fnref\:26::before, #fnref\:32::before, #fnref\:33::before, #fnref\:34::before, #fnref\:35::before, #fnref\:36::before, #fnref\:39::before { content:', '; }
+</style> 
 
