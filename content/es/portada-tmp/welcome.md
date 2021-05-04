@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "¿Aquí un título?"
+title: "Libro Blanco de la COVID-19"
 subtitle: ""
 hero_media: 
 design:
@@ -30,7 +30,7 @@ advanced:
   css_style:
   css_class:
 cta:
-  url: 'link-al-PDF'
+  url: '../media/LibroBlancoCOVID19.pdf'
   label: Descarga el Libro Blanco
   icon_pack: fas
   icon: download
@@ -39,4 +39,4 @@ cta_alt:
   label: Leer en el sitio web
 ---
 
-Descripción del documento o lo que se quiera. The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Una reflexión colectiva realizada por profesionales y personal académico de distintos ámbitos tras quince meses de pandemia.

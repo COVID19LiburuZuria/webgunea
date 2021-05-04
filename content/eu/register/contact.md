@@ -13,7 +13,7 @@ weight: 10
 
 ---
 
-<form name="izenematea" method="post" data-netlify="true" action="/eu/thankyou/">
+<form name="izenematea-eu"  action="/eu/thankyou/" method="post" netlify>
   <div class="form-group form-inline">
     <label class="sr-only" for="inputName">Izena</label>
     <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Izena" required="">
@@ -24,7 +24,7 @@ weight: 10
   </div>
   <div class="form-group">
     <label class="sr-only" for="inputMessage">Mezuren bat helarazi nahi diguzu?</label>
-    <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Mezua" required=""></textarea>
+    <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Mezuren bat helarazi nahi diguzu?"></textarea>
   </div>
   <button type="submit" class="btn btn-outline-primary px-3 py-2">Bidali</button>
 </form>
