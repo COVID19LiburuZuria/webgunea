@@ -13,7 +13,7 @@ weight: 10
 
 ---
 
-<form name="izenematea" method="post" data-netlify="true" action="/thankyou/">
+<form name="izenematea" method="post" data-netlify="true" action="/eu/thankyou/">
   <div class="form-group form-inline">
     <label class="sr-only" for="inputName">Izena</label>
     <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Izena" required="">

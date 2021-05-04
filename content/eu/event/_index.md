@@ -1,5 +1,5 @@
 ---
-title: Agendazz
+title: Agenda
 
 # View.
 #   1 = List
