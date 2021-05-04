@@ -201,7 +201,7 @@ Adinekoen egoitzek arazo bereziak izan dituzte[^40] egoiliarren sektorizazio lan
     
 [^39]: Chacón-Fuertes F., et al. (2020) La psicología ante la pandemia de la Covid-19 en España. La respuesta de la organización colegial. _Clínica y Salud_ 31(2):119-23.
     
-[^40]: Gipuzkoako Foru Aldundia (2020) Covid- 19 gaitzaren aurrean hartutako neurriak. [https://www.gipuzkoa.eus/documents/13851246/0/20210302+GFA-Koronabirusa-Neurriak.pdf/10f250ff-f844-80e3-04a2-74443e9b7c17](https://www.gipuzkoa.eus/documents/13851246/0/20210302+GFA-Koronabirusa-Neurriak.pdf/10f250ff-f844-80e3-04a2-74443e9b7c17)  https://www.gipuzkoa.eus/eu/web/ogasuna/-/covid-19-gaitzaren-osasun-krisiaren-ondorioz-zerga-arloko-neurri-jakin-batzuk-onartu-dira (?)
+[^40]: Gipuzkoako Foru Aldundia (2020) Covid- 19 gaitzaren aurrean hartutako neurriak. [http://www.gipuzkoa.eus/eu/web/covid19](http://www.gipuzkoa.eus/eu/web/covid19)
     
 [^41]: Rioja I., Pereda R. (2021) 1000 muertos en las residencies vascas o cómo el 5,6% de los mayores internos ha fallecido con Covid-19. _Eldiario.es_. https://www.eldiario.es/euskadi/1-000-muertos-residencias-vascas-revelan-5-6-mayores-internos-fallecido-covid-19_1_7185157.html
     
