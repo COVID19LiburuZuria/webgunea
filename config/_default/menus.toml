@@ -6,7 +6,7 @@
 [[main]]
   name = "Home"
 #  url = "/"
-  url= "azala-tmp"
+  url= "azala2-tmp"
   weight = 10
 
 [[main]]
@@ -14,10 +14,10 @@
   url = "lib"
   weight = 20
 
-[[main]]
-  name = "Albisteak"
-  url = "post"
-  weight = 30
+#[[main]]
+#  name = "Albisteak"
+#  url = "post"
+#  weight = 30
 
 [[main]]
   name = "Lantaldea"

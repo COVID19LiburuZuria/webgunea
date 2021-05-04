@@ -67,7 +67,7 @@ Ezin bertaratuz gero, harremanetarako pertsona:
 <i class="fas fa-phone-square-alt"></i>&nbsp;&nbsp;&nbsp;**666735767** 
 
 <div style="opacity:.6;font-size:.8em;line-height:1em;">
-Zuzenean deitzeko 17:00etatik 20:00etara bakarrik. Beste orduetan Whatsapp edo Telegramaz kontaktatu.
+Zuzenean deitzeko 17:00etatik 20:00etara bakarrik. Beste orduetan Whatsapp edo Telegram bidez kontaktatu.
 </div>
 
 {{% /callout %}}
