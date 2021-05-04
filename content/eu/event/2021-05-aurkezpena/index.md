@@ -59,6 +59,8 @@ Kontuan izan, **aforo mugatua dela eta, bertaratzeko izena ematea beharrezkoa de
 
 {{< cta cta_text="<i class='fas fa-download'></i> Deskargatu" cta_link="/media/COVID19LiburuZuria_sarrera-lantaldea.pdf" cta_new_tab="false" cta_alt_text="Bertaratzeko izena eman" cta_alt_link="/eu/register" cta_alt_new_tab="false">}}
 
+
+{{% callout note %}}
 Ezin bertaratuz gero, harremanetarako pertsona: 
 
 <i class="fas fa-user"></i> **Ugo Mayor**  
@@ -67,3 +69,5 @@ Ezin bertaratuz gero, harremanetarako pertsona:
 <span style="opacity:.6;">
 (Zuzenean deitzeko 17:00etatik 20:00etara bakarrik. Beste orduetan Whatsapp edo Telegramaz kontaktatu).
 </span>
+
+{{% /callout %}}

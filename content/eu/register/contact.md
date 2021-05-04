@@ -23,7 +23,7 @@ weight: 10
     <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required="">
   </div>
   <div class="form-group">
-    <label class="sr-only" for="inputMessage">Mezua</label>
+    <label class="sr-only" for="inputMessage">Mezuren bat helarazi nahi diguzu?</label>
     <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Mezua" required=""></textarea>
   </div>
   <button type="submit" class="btn btn-outline-primary px-3 py-2">Bidali</button>
