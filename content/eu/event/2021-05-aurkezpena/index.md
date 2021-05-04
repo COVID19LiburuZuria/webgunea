@@ -63,11 +63,11 @@ Kontuan izan, **aforo mugatua dela eta, bertaratzeko izena ematea beharrezkoa de
 {{% callout note %}}
 Ezin bertaratuz gero, harremanetarako pertsona: 
 
-<i class="fas fa-user"></i> **Ugo Mayor**  
-<i class="fas fa-phone-square-alt"></i> **666735767** 
+<i class="fas fa-user"></i>&nbsp;&nbsp;&nbsp;**Ugo Mayor**  
+<i class="fas fa-phone-square-alt"></i>&nbsp;&nbsp;&nbsp;**666735767** 
 
-<span style="opacity:.6;">
-(Zuzenean deitzeko 17:00etatik 20:00etara bakarrik. Beste orduetan Whatsapp edo Telegramaz kontaktatu).
-</span>
+<div style="opacity:.6;font-size:.8em;line-height:1em;">
+Zuzenean deitzeko 17:00etatik 20:00etara bakarrik. Beste orduetan Whatsapp edo Telegramaz kontaktatu.
+</div>
 
 {{% /callout %}}
