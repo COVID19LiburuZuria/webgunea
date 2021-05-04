@@ -57,6 +57,13 @@ projects:
 
 Kontuan izan, **aforo mugatua dela eta, bertaratzeko izena ematea beharrezkoa dela**. Aurrerapen gisa, hona hemen Liburu Zuriaren sarrera eta parte-hartzaileen zerrenda:
 
-{{< cta cta_text="<i class='fas fa-download'></i> Deskargatu" cta_link="/media/COVID19LiburuZuria_sarrera-lantaldea.pdf" cta_new_tab="false" cta_alt_text="Bertaratzeko izena eman" cta_alt_link="/eu/contact" cta_alt_new_tab="false">}}
+{{< cta cta_text="<i class='fas fa-download'></i> Deskargatu" cta_link="/media/COVID19LiburuZuria_sarrera-lantaldea.pdf" cta_new_tab="false" cta_alt_text="Bertaratzeko izena eman" cta_alt_link="/eu/register" cta_alt_new_tab="false">}}
 
-Ezin bertaratuz gero, hona hemen harremanetarako pertsona eta tfnoa: **Ugo Mayor, 666735767** (zuzenean deitzeko 17:00etatik 20:00etara bakarrik. Beste orduetan Whatsapp edo Telegramaz kontaktatu).
+Ezin bertaratuz gero, harremanetarako pertsona: 
+
+<i class="fas fa-user"></i> **Ugo Mayor**  
+<i class="fas fa-phone-square-alt"></i> **666735767** 
+
+<span style="opacity:.6;">
+(Zuzenean deitzeko 17:00etatik 20:00etara bakarrik. Beste orduetan Whatsapp edo Telegramaz kontaktatu).
+</span>
