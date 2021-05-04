@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
 
-title: Contacto
+title: Inscripción para asistencia
 
 # This file represents a page section.
 headless: true

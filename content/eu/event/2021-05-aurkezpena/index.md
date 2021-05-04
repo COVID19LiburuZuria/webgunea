@@ -53,6 +53,8 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+
+translationKey: ruedadeprensa
 ---
 
 Kontuan izan, **aforo mugatua dela eta, bertaratzeko izena ematea beharrezkoa dela**. Aurrerapen gisa, hona hemen Liburu Zuriaren sarrera eta parte-hartzaileen zerrenda:

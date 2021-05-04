@@ -6,7 +6,7 @@ title: Libro Blanco COVID–19
 superuser: true
 
 # Role/position
-role: Equipo de trabajo que ha contribuido a la redacción del Libro Blanco de la COVID–19
+role: Equipo de trabajo que ha contribuido a la redacción del Libro Blanco de la COVID–19.
 
 # Organizations/Affiliations
 #organizations:

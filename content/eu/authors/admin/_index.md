@@ -6,7 +6,7 @@ title: COVID–19 Liburu Zuria
 superuser: true
 
 # Role/position
-role: COVID–19aren Liburu Zuria prestatu duen lantaldea
+role: COVID–19aren Liburu Zuria prestatu duen lantaldea.
 
 # Organizations/Affiliations
 #organizations:

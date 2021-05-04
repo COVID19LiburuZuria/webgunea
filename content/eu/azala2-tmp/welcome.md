@@ -30,7 +30,7 @@ advanced:
   css_style:
   css_class:
 cta:
-  url: 'link-al-PDF'
+  url: '/media/COVID19LiburuZuria.pdf'
   label: Deskargatu Liburu Zuria
   icon_pack: fas
   icon: download
