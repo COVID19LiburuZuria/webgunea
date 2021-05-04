@@ -24,7 +24,7 @@ weight: 10
   </div>
   <div class="form-group">
     <label class="sr-only" for="inputMessage">¿Nos quieres hacer llegar algún mensaje?</label>
-    <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="¿Qué mensaje nos quieres enviar?"></textarea>
+    <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="¿Nos quieres hacer llegar algún mensaje?"></textarea>
   </div>
   <button type="submit" class="btn btn-outline-primary px-3 py-2">Enviar</button>
 </form>
