@@ -13,7 +13,7 @@ weight: 10
 
 ---
 
-<form name="izenematea-es" method="post" data-netlify="true"">
+<form name="izenematea-es" action="/es/thankyou/" method="post" netlify>
   <div class="form-group form-inline">
     <label class="sr-only" for="inputName">Nombre</label>
     <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Nombre" required="">
