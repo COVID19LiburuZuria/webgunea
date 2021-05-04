@@ -13,7 +13,7 @@ weight: 10
 
 ---
 
-<form name="izenematea" method="post" data-netlify="true" action="/eu/thankyou/">
+<form name="izenematea-es" method="post" data-netlify="true" action="/es/thankyou/">
   <div class="form-group form-inline">
     <label class="sr-only" for="inputName">Nombre</label>
     <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Nombre" required="">
@@ -23,11 +23,8 @@ weight: 10
     <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required="">
   </div>
   <div class="form-group">
-    <label class="sr-only" for="inputMessage">¿Qué mensaje nos quieres enviar?</label>
+    <label class="sr-only" for="inputMessage">¿Nos quieres hacer llegar algún mensaje?</label>
     <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="¿Qué mensaje nos quieres enviar?"></textarea>
-  </div>
-  <div class="d-none">
-    <label>Do not fill this field unless you are a bot: <input name="welcome-bot"></label>
   </div>
   <button type="submit" class="btn btn-outline-primary px-3 py-2">Enviar</button>
 </form>
