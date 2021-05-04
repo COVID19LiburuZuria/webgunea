@@ -46,4 +46,5 @@ Las y los profesionales que hemos contribuido a este texto, tanto del mundo acad
 
 [^4]: The John Snow Memorandum (2020), https://www.johnsnowmemo.com. Elhuyar Aldizkaria (2020), [John Snow Memoranduma. https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/
 
-[^5]: Barcelona Institute for Global Health, ISGlobal (2020) What Is a Zero-COVID Strategy and How Can It Help Us Minimise the Impact of the Pandemic? https://www.isglobal.org/en_GB/-/-que-es-una-estrategia-de-covid-cero-y-como-puedeayudarnos-a-minimizar-el-impacto-de-la-pandemia- 
+[^5]: Barcelona Institute for Global Health, ISGlobal (2020) What Is a Zero-COVID Strategy and How Can It Help Us Minimise the Impact of the Pandemic? 
+https://www.isglobal.org/en_GB/-/-que-es-una-estrategia-de-covid-cero-y-como-puede-ayudarnos-a-minimizar-el-impacto-de-la-pandemia-
