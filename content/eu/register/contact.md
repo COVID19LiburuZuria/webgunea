@@ -3,6 +3,8 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
 
+title: Bertaratzeko izenematea
+
 # This file represents a page section.
 headless: true
 
@@ -11,7 +13,7 @@ weight: 10
 
 ---
 
-<form name="izenematea" method="post" data-netlify="true">
+<form name="izenematea" method="post" data-netlify="true" action="/thankyou/">
   <div class="form-group form-inline">
     <label class="sr-only" for="inputName">Izena</label>
     <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Izena" required="">
@@ -23,9 +25,6 @@ weight: 10
   <div class="form-group">
     <label class="sr-only" for="inputMessage">Mezua</label>
     <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Mezua" required=""></textarea>
-  </div>
-  <div class="d-none">
-    <label>Do not fill this field unless you are a bot: <input name="welcome-bot"></label>
   </div>
   <button type="submit" class="btn btn-outline-primary px-3 py-2">Bidali</button>
 </form>
