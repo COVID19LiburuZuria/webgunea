@@ -3,8 +3,9 @@
 widget: pages
 headless: true
 weight: 20
+active: false
 
-title: Agenda
+title: Albisteak
 subtitle:
 
 content:
@@ -17,7 +18,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: event
+  page_type: post
 design:
-  view: 1
+  view: 2
 ---
