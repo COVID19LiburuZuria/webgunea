@@ -40,7 +40,7 @@ social:
   link: https://orcid.org/0000-0003-4528-9138
 - icon: github
   icon_pack: fab
-  link: https://github.com/mberasategi
+  link: https://github.com/mirenbz
 - icon: mastodon
   icon_pack: fab
   link: https://mas.to/miren
