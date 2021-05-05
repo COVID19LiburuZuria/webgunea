@@ -30,13 +30,14 @@ advanced:
   css_style:
   css_class:
 cta:
-  url: '../media/COVID19LiburuZuria.pdf'
-  label: Deskargatu Liburu Zuria
+#  url: '../media/COVID19LiburuZuria.pdf'
+  url: ''
+  label: Deskargatu Liburu Zuria [LASTER]
   icon_pack: fas
   icon: download
-cta_alt:
-  url: '/lib/'
-  label: Irakurri webgunean
+#cta_alt:
+#  url: '/lib/'
+#  label: Irakurri webgunean
 ---
 
 Pandemiak hamabost hilabete bete dituen honetan, arlo desberdinetako akademiko eta profesionalek egindako gogoeta kolektiboa.

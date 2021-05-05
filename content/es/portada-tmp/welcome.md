@@ -30,13 +30,14 @@ advanced:
   css_style:
   css_class:
 cta:
-  url: '../media/LibroBlancoCOVID19.pdf'
-  label: Descarga el Libro Blanco
+#  url: '../media/LibroBlancoCOVID19.pdf'
+  url: ''
+  label: Descarga el Libro Blanco [PRONTO]
   icon_pack: fas
   icon: download
-cta_alt:
-  url: '/lib/'
-  label: Leer en el sitio web
+#cta_alt:
+#  url: '/lib/'
+#  label: Leer en el sitio web
 ---
 
 Una reflexión colectiva realizada por profesionales y personal académico de distintos ámbitos tras quince meses de pandemia.
