@@ -4,15 +4,14 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
-#  url = "/"
-  url = "portada-tmp"
+  name = "Inicio"
+  url = "/"
   weight = 10
 
-[[main]]
-  name = "Libro Blanco"
-  url = "lib"
-  weight = 20
+#[[main]]
+#  name = "Libro Blanco"
+#  url = "lib"
+#  weight = 20
 
 #[[main]]
 #  name = "Noticias"
@@ -26,10 +25,11 @@
 
 [[main]]
   name = "Agenda"
-  url = "event"
+#  url = "event"
+  url = "#news"
   weight = 50
 
 [[main]]
   name = "Contacto"
-  url = "contact"
+  url = "#contact"
   weight = 60

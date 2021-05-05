@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Libro Blanco de la COVID-19"
+title: ""
 subtitle: ""
 hero_media: 
 design:
@@ -14,7 +14,7 @@ design:
   columns: '1'
   background:
     # Name of image in `assets/media/`.
-    image: fusion-medical-animation-npjP0dCtoxo-unsplash.jpg
+    #image: fusion-medical-animation-npjP0dCtoxo-unsplash.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0.6
     #  Options are `cover` (default), `contain`, or `actual` size.
@@ -25,18 +25,26 @@ design:
     image_parallax: true
     # color: 'navy'
     # Text color (true=light, false=dark, or remove for the dynamic theme color). 
-    text_color_light: true
+    text_color_light: false
 advanced:
   css_style:
   css_class:
-cta:
-  url: '../media/LibroBlancoCOVID19.pdf'
-  label: Descarga el Libro Blanco
-  icon_pack: fas
-  icon: download
-cta_alt:
-  url: '/lib/'
-  label: Leer en el sitio web
+#cta:
+#  url: 'link-al-PDF'
+#  label: Deskargatu Liburu Zuria
+#  icon_pack: fas
+#  icon: download
+#cta_alt:
+#  url: '/lib/'
+#  label: Irakurri webgunean
 ---
 
-Una reflexión colectiva realizada por profesionales y personal académico de distintos ámbitos tras quince meses de pandemia.
+<i class="fas fa-viruses"></i>
+
+<h1 class="hero-title">Libro Blanco de la COVID&ndash;19</h1>
+
+<p>En construcción</p>
+
+<style type="text/css">
+  #navbar-main, .page-footer { display: none }
+</style>
