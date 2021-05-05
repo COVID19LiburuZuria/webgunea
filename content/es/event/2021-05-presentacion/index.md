@@ -68,8 +68,8 @@ En caso de no poder acudir, persona de contacto:
 <i class="fas fa-user"></i>&nbsp;&nbsp;&nbsp;**Ugo Mayor**  
 <i class="fas fa-envelope"></i>&nbsp;&nbsp;&nbsp;**ugo@covid19liburuzuria.eus** 
 
-<div style="opacity:.6;font-size:.8em;line-height:1em;">
+<!-- <div style="opacity:.6;font-size:.8em;line-height:1em;">
 Llamadas directas sólo desde las 17:00 a 20:00 horas. En otros horarios contactar por Whatsapp o Telegram.
-</div>
+</div> -->
 
 {{% /callout %}}
