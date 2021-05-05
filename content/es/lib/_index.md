@@ -44,7 +44,7 @@ Las y los profesionales que hemos contribuido a este texto, tanto del mundo acad
 
 [^3]: Wucker, M. (2016). The gray rhino: How to recognize and act on the obvious dangers we ignore. New : Macmillan. 
 
-[^4]: The John Snow Memorandum (2020), https://www.johnsnowmemo.com. Elhuyar Aldizkaria (2020), [John Snow Memoranduma. https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/
+[^4]: The John Snow Memorandum (2020), [https://www.johnsnowmemo.com](https://www.johnsnowmemo.com).  
+      Elhuyar Aldizkaria (2020), John Snow Memoranduma. [https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/](https://aldizkaria.elhuyar.eus/albisteak/john-snow-memoranduma/)
 
-[^5]: Barcelona Institute for Global Health, ISGlobal (2020) What Is a Zero-COVID Strategy and How Can It Help Us Minimise the Impact of the Pandemic? 
-https://www.isglobal.org/en_GB/-/-que-es-una-estrategia-de-covid-cero-y-como-puede-ayudarnos-a-minimizar-el-impacto-de-la-pandemia-
+[^5]: Barcelona Institute for Global Health, ISGlobal (2020) What Is a Zero-COVID Strategy and How Can It Help Us Minimise the Impact of the Pandemic? https://www.isglobal.org/en_GB/-/-que-es-una-estrategia-de-covid-cero-y-como-puede-ayudarnos-a-minimizar-el-impacto-de-la-pandemia-
