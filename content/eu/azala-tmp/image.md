@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -17,15 +17,17 @@ subtitle:
 
 design:
   columns: "1"
-  background:
-    image: coders.jpg
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
-advanced:
-  css_class: fullscreen
+ # background:
+ #   image: coders.jpg
+  #  image_darken: 0
+   # image_parallax: false
+  #  image_position: center
+   # image_size: cover
+   # text_color_light: true
+ # spacing:
+ #   padding: ["20px", "0", "20px", "0"]
+#advanced:
+#  css_class: fullscreen
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/idRQb8V6Obk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
