@@ -5,8 +5,7 @@
 
 [[main]]
   name = "Hasiera"
-#  url = "/"
-  url= "azala2-tmp"
+  url = "/"
   weight = 10
 
 #[[main]]

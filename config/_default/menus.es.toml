@@ -5,8 +5,7 @@
 
 [[main]]
   name = "Inicio"
-#  url = "/"
-  url = "portada-tmp"
+  url = "/"
   weight = 10
 
 #[[main]]
