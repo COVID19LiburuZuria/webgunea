@@ -31,8 +31,8 @@ advanced:
   css_class:
 cta:
 #  url: '../media/LibroBlancoCOVID19.pdf'
-  url: ''
-  label: Descarga el Libro Blanco [PRONTO]
+  url: '/'
+  label: 'Descarga el Libro Blanco [PRÓXIMAMENTE]'
   icon_pack: fas
   icon: download
 #cta_alt:

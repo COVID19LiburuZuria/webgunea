@@ -31,8 +31,8 @@ advanced:
   css_class:
 cta:
 #  url: '../media/COVID19LiburuZuria.pdf'
-  url: ''
-  label: Deskargatu Liburu Zuria [LASTER]
+  url: '/'
+  label: 'Deskargatu Liburu Zuria [LASTER]'
   icon_pack: fas
   icon: download
 #cta_alt:
