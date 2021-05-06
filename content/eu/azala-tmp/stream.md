@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Jarraitu zuzenean
-subtitle:
+title: Jarraitu
+subtitle: 🔴 ZUZENEAN
 
 design:
   columns: "2"
