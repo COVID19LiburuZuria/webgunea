@@ -11,7 +11,7 @@
   languageCode = "eu"
   contentDir = "content/eu"
   title = "COVID–19aren Liburu Zuria"
-  description = "COVID–19aren Liburu Zuriaren webgunea"
+  description = "Hausnarketa kolektibo bat. Konponbide zehatzak."
   weight = 1
   languageName = "Euskara"
 
@@ -19,7 +19,7 @@
   languageCode = "es"
   contentDir = "content/es"
   title = "Libro Blanco de la COVID–19"
-  description = "Sitio web del Libro Blanco de la COVID–19"
+  description = "Una reflexión colectiva. Soluciones concretas."
   weight = 2
   languageName = "Castellano"
 
