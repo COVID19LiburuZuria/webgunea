@@ -12,11 +12,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title:
+title: Jarraitu zuzenean
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
  # background:
  #   image: coders.jpg
   #  image_darken: 0
