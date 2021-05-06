@@ -14,8 +14,9 @@ b, strong { font-weight: 600; }
 	h2 { font-weight: 700; }
 }
 
-#stream .col-12 { text-align: center; }
-
+#stream  {
+	.section-heading p { color: inherit; }
+}
 .video-responsive {
 	height: 0;
 	overflow: hidden;
