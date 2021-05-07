@@ -30,6 +30,11 @@
   weight = 50
 
 [[main]]
+  name = "Baliabideak"
+  url = "baliabideak"
+  weight = 55
+
+[[main]]
   name = "Harremanetarako"
-  url = "#contact"
+  url = "baliabideak/#contact"
   weight = 60
