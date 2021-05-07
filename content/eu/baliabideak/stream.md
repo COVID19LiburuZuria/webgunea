@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Síguenos
-subtitle: 🔴 EN DIRECTO
+title: Aurkezpena
+subtitle: 
 
 design:
   columns: "2"
@@ -30,6 +30,8 @@ design:
 #  css_class: fullscreen
 ---
 
-<div class="video-responsive">
-<iframe src="https://www.youtube.com/embed/pklQrAp7CaA" title="Emisión en directo de la presentación del Libro Blanco de la COVID-19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
+<!-- <div class="video-responsive">
+<iframe src="https://www.youtube.com/embed/UeIM-5b-bu8" title="COVID-19aren Liburu Zuriaren aurkezpenaren zuzeneko emisioa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div> -->
+
+[LASTER]
