@@ -4,13 +4,13 @@
 widget: blank
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Síguenos
 subtitle: 🔴 EN DIRECTO
@@ -31,5 +31,5 @@ design:
 ---
 
 <div class="video-responsive">
-<iframe src="https://www.youtube.com/embed/idRQb8V6Obk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/UeIM-5b-bu8" title="Emisión en directo de la presentación del Libro Blanco de la COVID-19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
