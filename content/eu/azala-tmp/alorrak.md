@@ -18,16 +18,44 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - name: '[Osasungintza soziosanitarioa](/eu/lib/osasungintza)'
-  icon: hearbeat
+  icon: heartbeat
   icon_pack: fas  
-- description: Lorem ipsum dolor...
-  icon: bullseye
-  icon_pack: fas
-  name: Konponbide zehatzak
-- description: Eztabaidarako proposamena, ekarpenak ongi etorriak
-  icon: cogs
-  icon_pack: fas
-  name: Abiapuntu gisa mahaigaineratua
+- name: '[Neurri ez farmakologikoak](/eu/lib/neurri-ez-farmakologikoak)'
+  icon: head-side-mask
+  icon_pack: fas  
+- name: '[Txertoak eta txertaketa planak](/eu/lib/txertoak)'
+  icon: syringe
+  icon_pack: fas  
+- name: '[Osasun mentala](/eu/lib/osasun-mentala)'
+  icon: brain
+  icon_pack: fas 
+- name: '[Ohitura osasuntsuak](/eu/lib/ohitura-osasuntsuak)'
+  icon: walking
+  icon_pack: fas   
+- name: '[I+G+b integrazioa](/eu/lib/ikerketa)'
+  icon: flask
+  icon_pack: fas  
+- name: '[Faktore sozioekonomikoak](/eu/lib/sozioekonomia)'
+  icon: home
+  icon_pack: fas  
+- name: '[Mikro eta mesoekonomia](/eu/lib/mikro-mesoekonomia)'
+  icon: money-bill-alt
+  icon_pack: fas  
+- name: '[Komunikazio politika](/eu/lib/komunikazioa)'
+  icon: comments
+  icon_pack: fas  
+- name: '[Datu irekien kudeaketa](/eu/lib/datu-irekiak)'
+  icon: database
+  icon_pack: fas  
+- name: '[Lege esparrua](/eu/lib/lege-esparrua)'
+  icon: gavel
+  icon_pack: fas  
+- name: '[Haur, Lehen eta Bigarren hezkuntza](/eu/lib/haur-lehen-bigarren-hezkuntza)'
+  icon: book
+  icon_pack: fas 
+- name: '[Unibertsitate hezkuntza](/eu/lib/unibertsitate-hezkuntza)'
+  icon: graduation-cap
+  icon_pack: fas   
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
