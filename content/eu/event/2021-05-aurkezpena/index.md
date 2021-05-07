@@ -68,7 +68,7 @@ Kontuan izan, **aforo mugatua dela eta, bertaratzeko izena ematea beharrezkoa de
 
 {{% callout note %}}
 
-Prentsaurrekoan zehar egindako argazkiak etab. topa daitezke [Baliabideak](baliabideak) orrialdean
+Prentsaurrekoan zehar egindako argazkiak etab. topa daitezke [Baliabideak](/eu/baliabideak) orrialdean
 
 <!-- Ezin bertaratuz gero, harremanetarako pertsona: 
 

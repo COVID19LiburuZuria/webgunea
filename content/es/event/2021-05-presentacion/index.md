@@ -69,7 +69,7 @@ Ten en cuenta que **debido a limitaciones de aforo, es imprescindible inscribirs
 
 {{% callout note %}}
 
-Pueden encontrase fotos etc. tomadas durante la rueda de prensa en la página de [Recursos](recursos)
+Pueden encontrase fotos etc. tomadas durante la rueda de prensa en la página de [Recursos](/es/recursos)
 
 <!-- En caso de no poder acudir, persona de contacto: 
 
