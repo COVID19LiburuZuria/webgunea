@@ -30,8 +30,6 @@ design:
 #  css_class: fullscreen
 ---
 
-<!-- <div class="video-responsive">
-<iframe src="https://www.youtube.com/embed/UeIM-5b-bu8" title="COVID-19aren Liburu Zuriaren aurkezpenaren zuzeneko emisioa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div> -->
-
-[LASTER]
+<div class="video-responsive">
+<iframe src="https://www.youtube.com/embed/pklQrAp7CaA" title="COVID-19aren Liburu Zuriaren aurkezpenaren zuzeneko emisioa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

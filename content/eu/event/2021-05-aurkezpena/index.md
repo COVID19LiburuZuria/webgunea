@@ -31,14 +31,14 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: The Climate Reality Project for [**Unsplash**](https://unsplash.com/photos/Hb6uWq0i4MI)'
+  caption: 'COVID-19aren Liburu Zuriaren aurkezpen prentsaurrekoa'
   focal_point: Right
   
 
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/pklQrAp7CaA"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -57,17 +57,23 @@ projects:
 translationKey: ruedadeprensa
 ---
 
+<div class="video-responsive">
+<iframe src="https://www.youtube.com/embed/pklQrAp7CaA" title="COVID-19aren Liburu Zuriaren aurkezpenaren zuzeneko emisioa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Kontuan izan, **aforo mugatua dela eta, bertaratzeko izena ematea beharrezkoa dela**. Aurrerapen gisa, hona hemen Liburu Zuriaren sarrera eta parte-hartzaileen zerrenda:
 
-{{< cta cta_text="<i class='fas fa-download'></i> Deskargatu" cta_link="/media/COVID19LiburuZuria_sarrera-lantaldea.pdf" cta_new_tab="false" cta_alt_text="Bertaratzeko izena eman" cta_alt_link="/eu/register" cta_alt_new_tab="false">}}
+{{< cta cta_text="<i class='fas fa-download'></i> Deskargatu" cta_link="/media/COVID19LiburuZuria_sarrera-lantaldea.pdf" cta_new_tab="false" >}}
 
 
 {{% callout note %}}
-Ezin bertaratuz gero, harremanetarako pertsona: 
+
+Prentsaurrekoan zehar egindako argazkiak etab. topa daitezke [Baliabideak](baliabideak) orrialdean
+
+<!-- Ezin bertaratuz gero, harremanetarako pertsona: 
 
 <i class="fas fa-user"></i>&nbsp;&nbsp;&nbsp;**Ugo Mayor**  
-<i class="fas fa-envelope"></i>&nbsp;&nbsp;&nbsp;**ugo@covid19liburuzuria.eus**  
-
+<i class="fas fa-envelope"></i>&nbsp;&nbsp;&nbsp;**ugo@covid19liburuzuria.eus** -->  
 <!-- <div style="opacity:.6;font-size:.8em;line-height:1em;">
 Zuzenean deitzeko 17:00etatik 20:00etara bakarrik. Beste orduetan Whatsapp edo Telegram bidez kontaktatu.
 </div> -->

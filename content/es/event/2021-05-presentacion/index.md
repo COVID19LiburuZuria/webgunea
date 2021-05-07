@@ -31,14 +31,14 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: The Climate Reality Project for [**Unsplash**](https://unsplash.com/photos/Hb6uWq0i4MI)'
+  caption: 'Rueda de prensa de presentación del Libro Blanco de la COVID-19'
   focal_point: Right
   
 
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/pklQrAp7CaA"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -57,16 +57,24 @@ projects:
 translationKey: ruedadeprensa
 ---
 
+<div class="video-responsive">
+<iframe src="https://www.youtube.com/embed/pklQrAp7CaA" title="COVID-19aren Liburu Zuriaren aurkezpenaren zuzeneko emisioa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 Ten en cuenta que **debido a limitaciones de aforo, es imprescindible inscribirse para asistir presencialmente**. A modo de adelanto, aquí puedes encontrar el preámbulo del Libro Blanco, así como las personas que han participado en su autoría.
 
-{{< cta cta_text="<i class='fas fa-download'></i> Descargar" cta_link="/media/LibroBlancoCOVID19_introduccion-equipodetrabajo.pdf" cta_new_tab="false" cta_alt_text="Inscripción para asistencia" cta_alt_link="/es/register" cta_alt_new_tab="false">}}
+{{< cta cta_text="<i class='fas fa-download'></i> Descargar" cta_link="/media/LibroBlancoCOVID19_introduccion-equipodetrabajo.pdf" cta_new_tab="false" >}}
 
 
 {{% callout note %}}
-En caso de no poder acudir, persona de contacto: 
+
+Pueden encontrase fotos etc. tomadas durante la rueda de prensa en la página de [Recursos](recursos)
+
+<!-- En caso de no poder acudir, persona de contacto: 
 
 <i class="fas fa-user"></i>&nbsp;&nbsp;&nbsp;**Ugo Mayor**  
-<i class="fas fa-envelope"></i>&nbsp;&nbsp;&nbsp;**ugo@covid19liburuzuria.eus** 
+<i class="fas fa-envelope"></i>&nbsp;&nbsp;&nbsp;**ugo@covid19liburuzuria.eus** --> 
 
 <!-- <div style="opacity:.6;font-size:.8em;line-height:1em;">
 Llamadas directas sólo desde las 17:00 a 20:00 horas. En otros horarios contactar por Whatsapp o Telegram.
