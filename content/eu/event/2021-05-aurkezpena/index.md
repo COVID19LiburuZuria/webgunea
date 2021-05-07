@@ -63,7 +63,7 @@ translationKey: ruedadeprensa
 
 Kontuan izan, **aforo mugatua dela eta, bertaratzeko izena ematea beharrezkoa dela**. Aurrerapen gisa, hona hemen Liburu Zuriaren sarrera eta parte-hartzaileen zerrenda:
 
-{{< cta cta_text="<i class='fas fa-download'></i> Deskargatu" cta_link="/media/COVID19LiburuZuria_sarrera-lantaldea.pdf" cta_new_tab="false" >}}
+{{< cta cta_text="<i class='fas fa-download'></i> Liburu Zuria deskargatu" cta_link="/media/COVID19LiburuZuria.pdf" cta_new_tab="false" cta_alt_link="/eu/lib/" cta_alt_text="Webgunean irakurri" >}}
 
 
 {{% callout note %}}
