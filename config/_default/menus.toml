@@ -36,5 +36,5 @@
 
 [[main]]
   name = "Harremanetarako"
-  url = "baliabideak/#contact"
+  url = "#contact"
   weight = 60

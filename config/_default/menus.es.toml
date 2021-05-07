@@ -36,5 +36,5 @@
 
 [[main]]
   name = "Contacto"
-  url = "recursos/#contact"
+  url = "#contact"
   weight = 60
