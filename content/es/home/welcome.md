@@ -32,7 +32,7 @@ advanced:
 cta:
   url: '../media/LibroBlancoCOVID19.pdf'
 #  url: '/'
-  label: 'Descarga el Libro Blanco [PRÓXIMAMENTE]'
+  label: 'Descarga el Libro Blanco'
   icon_pack: fas
   icon: download
 cta_alt:
