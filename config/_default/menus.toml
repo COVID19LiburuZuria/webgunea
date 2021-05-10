@@ -13,6 +13,12 @@
   url = "lib"
   weight = 20
 
+[[main]]
+  name = "Hitzaurrea"
+  url = "lib"
+  weight = 20
+  parent="Liburu Zuria"
+
 #[[main]]
 #  name = "Albisteak"
 #  url = "post"
