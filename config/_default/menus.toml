@@ -16,7 +16,72 @@
 [[main]]
   name = "Hitzaurrea"
   url = "lib"
-  weight = 20
+  weight = 21
+  parent="Liburu Zuria"
+[[main]]
+  name="Osasungintza soziosanitarioa"
+  url="lib/osasungintza"
+  weight= 22
+  parent="Liburu Zuria"
+[[main]]
+  name="Neurri ez farmakologikoak"
+  url="lib/neurri-ez-farmakologikoak"
+  weight= 23
+  parent="Liburu Zuria" 
+[[main]]
+  name="Txertoak eta txertatze kanpaina"
+  url="lib/txertoak"
+  weight= 24
+  parent="Liburu Zuria"
+[[main]]
+  name="Osasun mentala"
+  url="lib/osasun-mentala"
+  weight= 25
+  parent="Liburu Zuria"
+[[main]]
+  name="Ohitura osasuntsuak"
+  url="lib/ohitura-osasuntsuak"
+  weight= 26
+  parent="Liburu Zuria"
+[[main]]
+  name="I+G+b integrazioa"
+  url="lib/ikerketa"
+  weight= 27
+  parent="Liburu Zuria"
+[[main]]
+  name="Faktore sozioekonomikoak"
+  url="lib/sozioekonomia"
+  weight= 28
+  parent="Liburu Zuria"
+[[main]]
+  name="Mikro eta mesoekonomia"
+  url="lib/mikro-mesoekonomia"
+  weight= 29
+  parent="Liburu Zuria"
+[[main]]
+  name="Komunikazio politika"
+  url="lib/komunikazioa"
+  weight= 30
+  parent="Liburu Zuria"
+[[main]]
+  name="Datu irekien kudeaketa"
+  url="lib/datu-irekiak"
+  weight= 31
+  parent="Liburu Zuria"
+[[main]]
+  name="Lege esparrua"
+  url="lib/lege-esparrua"
+  weight= 32
+  parent="Liburu Zuria"
+[[main]]
+  name="Haur, Lehen eta Bigarren hezkuntza"
+  url="lib/haur-lehen-bigarren-hezkuntza"
+  weight= 33
+  parent="Liburu Zuria"
+[[main]]
+  name="Unibertsitate hezkuntza"
+  url="lib/unibertsitate-hezkuntza"
+  weight= 34
   parent="Liburu Zuria"
 
 #[[main]]
