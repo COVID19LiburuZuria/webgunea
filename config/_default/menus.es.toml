@@ -21,67 +21,67 @@
 
 [[main]]
   name = "Sanidad sociosanitaria"
-  url = "/lib/sanidad"
+  url = "lib/sanidad"
   weight = 22
   parent = "Libro Blanco"
 [[main]]
   name = "Medidas no faramcológicas"
-  url = "/lib/medidas-no-farmacologicas"
+  url = "lib/medidas-no-farmacologicas"
   weight = 23
   parent = "Libro Blanco"
 [[main]]
   name = "Vacunas y planes de vacunación"
-  url = "/lib/vacunas"
+  url = "lib/vacunas"
   weight = 24
   parent = "Libro Blanco"
 [[main]]
   name = "Salud mental"
-  url = "/lib/salud-mental"
+  url = "lib/salud-mental"
   weight = 25
   parent = "Libro Blanco"
 [[main]]
   name = "Hábitos saludables"
-  url = "/lib/habitos-saludables"
+  url = "lib/habitos-saludables"
   weight = 26
   parent = "Libro Blanco"
 [[main]]
   name = "Integración de la I+D+i"
-  url = "/lib/investigacion"
+  url = "lib/investigacion"
   weight = 27
   parent = "Libro Blanco"
 [[main]]
   name = "Factores socioeconómicos"
-  url = "/lib/socioeconomia"
+  url = "lib/socioeconomia"
   weight = 28
   parent = "Libro Blanco"
 [[main]]
   name = "Micro y mesoeconomía"
-  url = "/lib/micro-mesoeconomia"
+  url = "lib/micro-mesoeconomia"
   weight = 29
   parent = "Libro Blanco"
 [[main]]
   name = "Política de comunicación"
-  url = "/lib/comunicacion"
+  url = "lib/comunicacion"
   weight = 30
   parent = "Libro Blanco"
 [[main]]
   name = "Gestión de datos abiertos"
-  url = "/lib/datos-abiertos"
+  url = "lib/datos-abiertos"
   weight = 31
   parent = "Libro Blanco"
 [[main]]
   name = "Marco legal"
-  url = "/lib/legal"
+  url = "lib/legal"
   weight = 32
   parent = "Libro Blanco"
 [[main]]
   name = "Educación Infantil, Primaria y Secundaria"
-  url = "/lib/educacion-infantil-primaria-secundaria"
+  url = "lib/educacion-infantil-primaria-secundaria"
   weight = 33
   parent = "Libro Blanco"
 [[main]]
   name = "Educación universitaria"
-  url = "/lib/educacion-universitaria"
+  url = "lib/educacion-universitaria"
   weight = 34
   parent = "Libro Blanco"
 
@@ -109,13 +109,4 @@
 [[main]]
   name = "Contacto"
   url = "#contact"
-  weight = 60[[main]]
-  name = "Liburu Zuria"
-  url = "lib"
-  weight = 20
-
-[[main]]
-  name = "Hitzaurrea"
-  url = "lib"
-  weight = 21
-  parent="Liburu Zuria"
+  weight = 60
