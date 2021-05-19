@@ -20,7 +20,7 @@ feature:
 - name: '[Sanidad sociosanitaria](/es/lib/sanidad)'
   icon: heartbeat
   icon_pack: fas  
-- name: '[Medidas no farmacológicas](/es/lib/medidas-no-farmacologicas'
+- name: '[Medidas no farmacológicas](/es/lib/medidas-no-farmacologicas)'
   icon: head-side-mask
   icon_pack: fas  
 - name: '[Vacunas y planes de vacunación](/es/lib/vacunas)'
