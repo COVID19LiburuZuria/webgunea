@@ -30,4 +30,4 @@ design:
 #  css_class: fullscreen
 ---
 
-- <i class="fas fa-microphone-alt"></i> _2021/05/23_ Radio Euskadi, "Hágase la luz": [El libro blanco del Covid: una mirada al pasado y al futuro](https://www.eitb.eus/es/radio/radio-euskadi/programas/hagase-la-luz/detalle/8070839/el-libro-blanco-del-covid-mirada-al-pasado-y-al-futuro-------/) 
+- <i class="fas fa-microphone-alt"></i>&nbsp;&nbsp;&nbsp;_2021/05/23_ Radio Euskadi, "Hágase la luz": [El libro blanco del Covid: una mirada al pasado y al futuro](https://www.eitb.eus/es/radio/radio-euskadi/programas/hagase-la-luz/detalle/8070839/el-libro-blanco-del-covid-mirada-al-pasado-y-al-futuro-------/) 
