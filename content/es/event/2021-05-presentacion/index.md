@@ -38,7 +38,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://youtu.be/pklQrAp7CaA"
+url_video: "https://youtu.be/tjckpJrU_9o"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,7 +58,7 @@ translationKey: ruedadeprensa
 ---
 
 <div class="video-responsive">
-<iframe src="https://www.youtube.com/embed/pklQrAp7CaA" title="COVID-19aren Liburu Zuriaren aurkezpenaren zuzeneko emisioa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/tjckpJrU_9o" title="COVID-19aren Liburu Zuriaren aurkezpenaren zuzeneko emisioa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
