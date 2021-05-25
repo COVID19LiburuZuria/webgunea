@@ -30,6 +30,6 @@ design:
 #  css_class: fullscreen
 ---
 
-{{< cta cta_text="<i class='fas fa-pdf'></i> PDF formatuan" cta_link="/media/COVID19LiburuZuria.pdf" cta_new_tab="false" >}}
+{{< cta cta_text="<i class='fas fa-file-pdf'></i> PDF formatuan" cta_link="/media/COVID19LiburuZuria.pdf" cta_new_tab="false" >}}
 
 {{< cta cta_text="<i class='fas fa-book-open'></i> EPUB formatuan" cta_link="/media/COVID19LiburuZuria.epub" cta_new_tab="false" >}}
