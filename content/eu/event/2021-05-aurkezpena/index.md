@@ -61,7 +61,7 @@ translationKey: ruedadeprensa
 <iframe src="https://www.youtube.com/embed/tjckpJrU_9o" title="COVID-19aren Liburu Zuriaren aurkezpenaren zuzeneko emisioa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Kontuan izan, **aforo mugatua dela eta, bertaratzeko izena ematea beharrezkoa dela**. Aurrerapen gisa, hona hemen Liburu Zuriaren sarrera eta parte-hartzaileen zerrenda:
+<!-- Kontuan izan, **aforo mugatua dela eta, bertaratzeko izena ematea beharrezkoa dela**. Aurrerapen gisa, --> Hona hemen Liburu Zuriaren sarrera eta parte-hartzaileen zerrenda:
 
 {{< cta cta_text="<i class='fas fa-download'></i> Liburu Zuria deskargatu" cta_link="/media/COVID19LiburuZuria.pdf" cta_new_tab="false" cta_alt_link="/eu/lib/" cta_alt_text="Webgunean irakurri" >}}
 

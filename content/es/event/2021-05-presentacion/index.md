@@ -62,7 +62,7 @@ translationKey: ruedadeprensa
 </div>
 
 
-Ten en cuenta que **debido a limitaciones de aforo, es imprescindible inscribirse para asistir presencialmente**. A modo de adelanto, aquí puedes encontrar el preámbulo del Libro Blanco, así como las personas que han participado en su autoría.
+<!-- Ten en cuenta que **debido a limitaciones de aforo, es imprescindible inscribirse para asistir presencialmente**. A modo de adelanto, --> Aquí puedes encontrar el preámbulo del Libro Blanco, así como las personas que han participado en su autoría.
 
 {{< cta cta_text="<i class='fas fa-download'></i> Descargar el Libro Blanco" cta_link="/media/LibroBlancoCOVID19.pdf" cta_new_tab="false" cta_alt_link="/es/lib/" cta_alt_text="Leer en la web" >}}
 
