@@ -51,6 +51,7 @@ b, strong { font-weight: 600; }
 .footnotes { font-size: .8em; opacity: .8; }
 
 #clipping { 
-	li i { width:1.5em !important; text-align:center !important; }
+	ul { list-style-type:none; }
+	li i { width:2.1em !important; text-align:center !important; opacity:.6; }
 	li em { font-size: .8em; opacity: .6; padding-right: .6em; }
 }
