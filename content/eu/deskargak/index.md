@@ -1,7 +1,7 @@
 ---
 # Files in this folder represent a Widget Page
 type: widget_page
-title: Prentsako agerpenak
+title: Deskargak
 
-translationKey: press
+translationKey: downloads
 ---
