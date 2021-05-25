@@ -30,7 +30,7 @@ advanced:
   css_style:
   css_class:
 cta:
-  url: '../media/LibroBlancoCOVID19.pdf'
+  url: '/descargas/'
 #  url: '/'
   label: 'Descarga el Libro Blanco'
   icon_pack: fas
