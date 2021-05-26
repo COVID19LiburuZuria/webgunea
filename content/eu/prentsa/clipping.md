@@ -35,3 +35,5 @@ design:
 - <i class="fas fa-microphone-alt"></i> _2021/05/17_ Radio Euskadi, "Boulevard": ["Este es un ejercicio de reflexión colectiva para mejorar"](https://www.eitb.eus/es/radio/radio-euskadi/programas/boulevard/detalle/8056506/libro-blanco-de-covid19-175-propuestas-para-futuro/)
 - <i class="fas fa-newspaper"></i> _2021/05/13_ HikHasi: ['COVID-19aren Liburu Zuria'-k hezkuntzarako proposamenak biltzen ditu, diagnosiaz gain](http://hikhasi.eus/Albistegia/20210513/COVID-19aren_Liburu_Zuria-k_hezkuntzarako_proposamenak_biltzen_ditu_diagnosiaz_gain_)
 - <i class="fas fa-tv"></i> _2021/05/10_ Hamaika Telebista: [COVID-19aren Liburu Zuria, iparrorratz izan eta urratsak emateko ](https://hamaika.eus/euskal-herria-berriak/gizartea/covid-19aren-liburu-zuria-iparrorratz-izan-eta-urratsak-emateko.html)
+
+{{< press >}}
