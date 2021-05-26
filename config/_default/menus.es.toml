@@ -94,6 +94,7 @@
   name = "Agenda"
 #  url = "event"
   url = "#news"
+  weight = 40
 
 [[main]]
   name = "Acerca de"
