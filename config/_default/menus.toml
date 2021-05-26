@@ -90,20 +90,31 @@
 #  weight = 30
 
 [[main]]
-  name = "Lantaldea"
-  url = "people"
-  weight = 40
-
-[[main]]
   name = "Agenda"
 #  url = "event"
   url = "#news"
+  weight = 40
+
+[[main]]
+  name = "Honi buruz"
+  url = "/"
   weight = 50
 
 [[main]]
+  name = "Lantaldea"
+  url = "people"
+  weight = 51
+  parent = "Honi buruz"
+[[main]]
   name = "Baliabideak"
   url = "baliabideak"
-  weight = 55
+  weight = 52
+  parent = "Honi buruz"
+[[main]]
+  name = "Prentsako agerpenak"
+  url = "prentsa"
+  weight = 53
+  parent = "Honi buruz"
 
 [[main]]
   name = "Harremanetarako"
