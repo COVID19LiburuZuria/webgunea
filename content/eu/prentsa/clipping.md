@@ -36,4 +36,4 @@ design:
 - <i class="fas fa-newspaper"></i> _2021/05/13_ HikHasi: ['COVID-19aren Liburu Zuria'-k hezkuntzarako proposamenak biltzen ditu, diagnosiaz gain](http://hikhasi.eus/Albistegia/20210513/COVID-19aren_Liburu_Zuria-k_hezkuntzarako_proposamenak_biltzen_ditu_diagnosiaz_gain_)
 - <i class="fas fa-tv"></i> _2021/05/10_ Hamaika Telebista: [COVID-19aren Liburu Zuria, iparrorratz izan eta urratsak emateko ](https://hamaika.eus/euskal-herria-berriak/gizartea/covid-19aren-liburu-zuria-iparrorratz-izan-eta-urratsak-emateko.html)
 
-{{ press }}
+{{% press %}}
