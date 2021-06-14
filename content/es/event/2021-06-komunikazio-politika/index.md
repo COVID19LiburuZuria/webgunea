@@ -4,7 +4,7 @@ title: Komunikazio politika pandemia garaiotan
 # event: Wowchemy Conference
 # event_url: https://example.org
 
-location: Linean, streaming bidez
+location: En línea, por streaming
 # address:
 #   street: Zigarrogileen plaza 1
 #   city: Donostia
@@ -67,5 +67,6 @@ translationKey: komunikaziopolitika
 - Nola hobetu liteke?
 
 
-**Parte hartzaileak:** Arantxa Iraola, Ibai Fernandez, Elixabete Garmendia eta  Txema Ramirez de la Piscina. 
+**Parte hartzaileak:** Arantxa Iraola, Ibai Fernandez, Elixabete Garmendia eta  Txema Ramirez de la Piscina
+
 **Moderatzailea:** Edurne Begiristain

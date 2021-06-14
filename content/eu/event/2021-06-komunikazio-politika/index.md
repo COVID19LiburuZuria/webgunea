@@ -67,5 +67,6 @@ translationKey: komunikaziopolitika
 - Nola hobetu liteke?
 
 
-**Parte hartzaileak:** Arantxa Iraola, Ibai Fernandez, Elixabete Garmendia eta  Txema Ramirez de la Piscina. 
+**Parte hartzaileak:** Arantxa Iraola, Ibai Fernandez, Elixabete Garmendia eta  Txema Ramirez de la Piscina
+
 **Moderatzailea:** Edurne Begiristain
