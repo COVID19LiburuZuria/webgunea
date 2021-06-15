@@ -4,7 +4,7 @@ title: 'Mahaingurua: Zaintza sistema birpentsatzen'
 # event: Wowchemy Conference
 # event_url: https://example.org
 
-location: En línea, por streaming
+location: 
 # address:
 #   street: Zigarrogileen plaza 1
 #   city: Donostia

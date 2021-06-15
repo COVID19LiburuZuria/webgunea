@@ -4,9 +4,9 @@ title: 'Berriketan solasaldia: COVID 19aren Liburu Zuria'
 # event: Wowchemy Conference
 # event_url: https://example.org
 
-location: Linean, streaming bidez
+location: Gerriko Txokoa, Lazkao
 address:
-  street: Gerriko Txokoa, Elosegi Kalea, 16
+  street: Elosegi Kalea, 16
   city: Lazkao
   region: Gipuzkoa
   postcode: '20210'
