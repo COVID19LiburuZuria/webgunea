@@ -4,12 +4,12 @@ title: 'Mahaingurua: Zaintza sistema birpentsatzen'
 # event: Wowchemy Conference
 # event_url: https://example.org
 
-location: 
-# address:
-#   street: Zigarrogileen plaza 1
-#   city: Donostia
-#   region: Gipuzkoa
-#   postcode: '20012'
+location: Sanagustin Kulturgunea, Azpeitia
+address:
+  street: Plaza Nagusia Plaza, 5
+  city: Azpeitia
+  region: Gipuzkoa
+  postcode: '20730'
 #  country: United States
 
 summary: Conversación sobre datos abiertos de la COVID-19
