@@ -30,7 +30,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:info@covid19liburuzuria.eus'
+  link: 'mailto:ugo.mayor@ehu.eus'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen

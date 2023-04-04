@@ -16,7 +16,7 @@ Las y los profesionales que hemos contribuido a este texto, tanto del mundo acad
 
 ## Índice de contenidos
 
-0. [Preámbulo: Una reflexión colectiva. Soluciones concretas.](https://covid19liburuzuria.eus/es/lib/)
+0. [Preámbulo: Una reflexión colectiva. Soluciones concretas.](https://covid19liburuzuria.netlify.app/es/lib/)
 
 1. Sanidad
     - [Sanidad sociosanitaria](sanidad)
@@ -36,7 +36,7 @@ Las y los profesionales que hemos contribuido a este texto, tanto del mundo acad
     - [Educación Infantil, Primaria y Secundaria](educacion-infantil-primaria-secundaria)
     - [Educación universitaria](educacion-universitaria)
     
-5. [Equipo de trabajo](https://covid19liburuzuria.eus/es/people/)
+5. [Equipo de trabajo](https://covid19liburuzuria.netlify.app/es/people/)
 
 [^1]: **Nota**: Algunos de los textos de este Libro Blanco se han contextualizado en la Comunidad Autónoma Vasca (CAV), mientras otros se han referido al conjunto de la CAV y la Comunidad Foral de Navarra. Dado que en cada caso los trabajos realizados se han basado en los datos disponibles para el grupo que lo ha contribuido, hemos decidido conservar esa diversidad de marcos de referencia.  Somos conscientes de que los límites competenciales y administrativos condicionan tanto las circunstancias actuales, como la capacidad de incidir con soluciones a los problemas existentes.  Sin embargo, entendemos que la mayor parte de los análisis, conclusiones y propuestas sectoriales detalladas son de similar aplicabilidad para cualquier parte del territorio.
 
